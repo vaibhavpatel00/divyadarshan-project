@@ -1,0 +1,4162 @@
+[
+  {
+    "id": "somnath",
+    "name": "Somnath Jyotirlinga",
+    "deity": "Lord Shiva",
+    "location": "Prabhas Patan, Gujarat",
+    "state": "Gujarat",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/1280px-Somanath_mandir_%28cropped%29.jpg",
+    "officialWebsite": "https://somnath.org",
+    "bookingUrl": "https://somnath.org",
+    "description": "The first among 12 Jyotirlingas, standing majestically on the Arabian Sea shore. Destroyed and rebuilt 17 times, symbolizing India's resilience.",
+    "timings": {
+      "morning": {
+        "open": "06:00",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "special": "Sound & Light Show at 08:00 PM daily"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "30-60 min",
+        "description": "Free entry for all.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Aarti Darshan",
+        "price": 200,
+        "waitTime": "15-30 min",
+        "description": "Special darshan during aarti. Book via somnath.org",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "VIP Abhishek",
+        "price": 751,
+        "waitTime": "10-15 min",
+        "description": "Personal abhishek pooja with VIP seating.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit somnath.org",
+      "Navigate to Online Darshan Booking",
+      "Register/Login",
+      "Select darshan type and date",
+      "Pay online and download e-ticket"
+    ],
+    "importantNotes": [
+      "General darshan is free",
+      "Sound & Light Show tickets bookable online",
+      "Temple is near the sea — carry shawl for evenings"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Sagar Darshan Guest House",
+        "distance": "0.2 km",
+        "priceRange": "₹500-1500/night",
+        "phone": "+91-2876-231082",
+        "bookingLink": "https://somnath.org"
+      },
+      {
+        "name": "Lilavati Guest House",
+        "distance": "0.3 km",
+        "priceRange": "₹300-800/night",
+        "phone": "+91-2876-231083",
+        "bookingLink": "https://somnath.org"
+      },
+      {
+        "name": "Maheshwari Dharamshala",
+        "distance": "0.5 km",
+        "priceRange": "₹200-600/night",
+        "phone": "+91-2876-231084",
+        "bookingLink": "https://somnath.org"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Bhalka Tirth",
+        "type": "temple",
+        "distance": 5,
+        "description": "Where Lord Krishna was struck by an arrow",
+        "mapLink": "https://maps.google.com/?q=Bhalka+Tirth+Somnath"
+      },
+      {
+        "name": "Triveni Sangam",
+        "type": "nature",
+        "distance": 3,
+        "description": "Confluence of 3 rivers at Arabian Sea",
+        "mapLink": "https://maps.google.com/?q=Triveni+Sangam+Somnath"
+      },
+      {
+        "name": "Junagadh Fort",
+        "type": "heritage",
+        "distance": 85,
+        "description": "Ancient fort with Buddhist caves",
+        "mapLink": "https://maps.google.com/?q=Junagadh+Fort"
+      },
+      {
+        "name": "Gir National Park",
+        "type": "nature",
+        "distance": 45,
+        "description": "Home of Asiatic Lions",
+        "mapLink": "https://maps.google.com/?q=Gir+National+Park"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "low",
+      "estimatedWait": "30 min",
+      "currentFootfall": 8000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Arabian Sea Shore",
+      "Sound & Light Show",
+      "First Jyotirlinga",
+      "Rebuilt 17 Times"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Kartik Purnima (Nov)",
+      "Somnath Mahotsav"
+    ]
+  },
+  {
+    "id": "mallikarjuna",
+    "name": "Mallikarjuna Swamy",
+    "deity": "Lord Shiva",
+    "location": "Srisailam, Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bangalore_Shiva.jpg/1280px-Bangalore_Shiva.jpg",
+    "officialWebsite": "https://srisailadevasthanam.org",
+    "bookingUrl": "https://srisailadevasthanam.org",
+    "description": "Situated atop Nallamala Hills, also a Shakti Peeth. The only temple in India that is both a Jyotirlinga and Shakti Peeth.",
+    "timings": {
+      "morning": {
+        "open": "04:30",
+        "close": "13:00"
+      },
+      "evening": {
+        "open": "14:00",
+        "close": "22:00"
+      },
+      "special": "Maha Abhishekam at 05:00 AM"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Samanya Darshan",
+        "price": 0,
+        "waitTime": "2-3 hours",
+        "description": "Free darshan through general queue.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Special Darshan",
+        "price": 250,
+        "waitTime": "30-60 min",
+        "description": "Online timed entry via temple website.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "VIP Abhishekam",
+        "price": 1500,
+        "waitTime": "15-20 min",
+        "description": "Personal abhishekam with VIP entry.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit srisailadevasthanam.org",
+      "Click on E-Services/Online Booking",
+      "Register and select darshan type",
+      "Choose date and pay online",
+      "Download e-ticket with QR code"
+    ],
+    "importantNotes": [
+      "Also a Shakti Peeth (Bhramaramba Devi)",
+      "Located in Nallamala forest — scenic drive",
+      "Hotel Haritha (APTDC) available nearby"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Hotel Haritha (APTDC)",
+        "distance": "0.5 km",
+        "priceRange": "₹800-2500/night",
+        "phone": "+91-8524-287560",
+        "bookingLink": "https://yatradham.org"
+      },
+      {
+        "name": "Devasthanam Guest House",
+        "distance": "0.3 km",
+        "priceRange": "₹300-1000/night",
+        "phone": "+91-8524-287561",
+        "bookingLink": "https://srisailadevasthanam.org"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Srisailam Dam",
+        "type": "nature",
+        "distance": 5,
+        "description": "One of India's largest hydroelectric dams on Krishna river",
+        "mapLink": "https://maps.google.com/?q=Srisailam+Dam"
+      },
+      {
+        "name": "Akka Mahadevi Caves",
+        "type": "heritage",
+        "distance": 8,
+        "description": "Ancient Buddhist rock-cut caves",
+        "mapLink": "https://maps.google.com/?q=Akka+Mahadevi+Caves+Srisailam"
+      },
+      {
+        "name": "Paladhara Panchadhara",
+        "type": "nature",
+        "distance": 3,
+        "description": "Sacred waterfalls near temple",
+        "mapLink": "https://maps.google.com/?q=Paladhara+Panchadhara"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "2 hours",
+      "currentFootfall": 15000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Jyotirlinga + Shakti Peeth",
+      "Nallamala Hills",
+      "Krishna River",
+      "Ancient Heritage"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Ugadi (Mar-Apr)",
+      "Dussehra (Oct)"
+    ]
+  },
+  {
+    "id": "mahakaleshwar",
+    "name": "Mahakaleshwar Temple",
+    "deity": "Lord Shiva",
+    "location": "Ujjain, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/1280px-Mahakaleshwar_Temple%2C_Ujjain.jpg",
+    "officialWebsite": "https://shrimahakaleshwar.mp.gov.in",
+    "bookingUrl": "https://shrimahakaleshwar.mp.gov.in",
+    "description": "The only Dakshinamukhi (south-facing) Jyotirlinga. Located in ancient city of Ujjain on banks of Shipra river. The Bhasma Aarti at dawn is world-famous.",
+    "timings": {
+      "morning": {
+        "open": "04:00",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "23:00"
+      },
+      "special": "Bhasma Aarti at 04:00 AM (booking required)"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Free entry through general queue.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Bhasma Aarti Pass",
+        "price": 250,
+        "waitTime": "1 hour",
+        "description": "Witness sacred Bhasma Aarti. Reserve online.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "VIP Darshan",
+        "price": 1500,
+        "waitTime": "15 min",
+        "description": "Priority entry with special pooja.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit shrimahakaleshwar.mp.gov.in",
+      "Register/Login",
+      "Select Bhasma Aarti or Special Darshan",
+      "Choose date, fill ID details",
+      "Pay and download e-pass"
+    ],
+    "importantNotes": [
+      "Bhasma Aarti requires advance booking — sells out fast",
+      "Ujjain is one of 4 Kumbh Mela cities",
+      "Visit Ram Ghat for evening aarti"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Mahakal Mandir Guest House",
+        "distance": "0.2 km",
+        "priceRange": "₹400-1200/night",
+        "phone": "+91-734-2550563",
+        "bookingLink": "https://shrimahakaleshwar.mp.gov.in"
+      },
+      {
+        "name": "Ujjain Municipal Dharamshala",
+        "distance": "1 km",
+        "priceRange": "₹200-500/night",
+        "phone": "+91-734-2551234",
+        "bookingLink": ""
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Ram Ghat",
+        "type": "heritage",
+        "distance": 1,
+        "description": "Sacred bathing ghat on river Shipra",
+        "mapLink": "https://maps.google.com/?q=Ram+Ghat+Ujjain"
+      },
+      {
+        "name": "Kal Bhairav Temple",
+        "type": "temple",
+        "distance": 3,
+        "description": "Unique temple where liquor is offered as prasad",
+        "mapLink": "https://maps.google.com/?q=Kal+Bhairav+Temple+Ujjain"
+      },
+      {
+        "name": "Vedha Shala (Observatory)",
+        "type": "heritage",
+        "distance": 2,
+        "description": "Ancient astronomical observatory by Jai Singh",
+        "mapLink": "https://maps.google.com/?q=Vedha+Shala+Ujjain"
+      },
+      {
+        "name": "Sandipani Ashram",
+        "type": "heritage",
+        "distance": 4,
+        "description": "Where Lord Krishna studied",
+        "mapLink": "https://maps.google.com/?q=Sandipani+Ashram+Ujjain"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "high",
+      "estimatedWait": "3 hours",
+      "currentFootfall": 30000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "South-Facing Jyotirlinga",
+      "Bhasma Aarti",
+      "Kumbh Mela City",
+      "Ancient Ujjain"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Simhastha Kumbh (Every 12 yrs)",
+      "Sawan Month (Jul-Aug)"
+    ]
+  },
+  {
+    "id": "omkareshwar",
+    "name": "Omkareshwar Temple",
+    "deity": "Lord Shiva",
+    "location": "Khandwa, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Omkareswar_Jyotirlinga.jpg/1280px-Omkareswar_Jyotirlinga.jpg",
+    "officialWebsite": "https://shriomkareshwar.org",
+    "bookingUrl": "https://shriomkareshwar.org",
+    "description": "Situated on Mandhata island shaped like the Om symbol in river Narmada. One of 12 Jyotirlingas with breathtaking natural beauty.",
+    "timings": {
+      "morning": {
+        "open": "05:00",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "special": "Parikrama of Om-shaped island takes 2-3 hours"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-2 hours",
+        "description": "Free entry for all devotees.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Special Pooja",
+        "price": 500,
+        "waitTime": "20-30 min",
+        "description": "Advance booked pooja slot.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit shriomkareshwar.org",
+      "Register and select pooja type",
+      "Choose date and pay online",
+      "Carry e-receipt + ID proof"
+    ],
+    "importantNotes": [
+      "Island shaped like OM symbol",
+      "Narmada Parikrama is a sacred walk",
+      "Two Jyotirlingas on this island: Omkareshwar and Amareshwar"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Omkareshwar Trust Dharamshala",
+        "distance": "0.3 km",
+        "priceRange": "₹200-800/night",
+        "phone": "+91-7280-271503",
+        "bookingLink": "https://shriomkareshwar.org"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Narmada River Cruise",
+        "type": "nature",
+        "distance": 1,
+        "description": "Boat ride around Om-shaped island",
+        "mapLink": "https://maps.google.com/?q=Omkareshwar+Island"
+      },
+      {
+        "name": "Siddhanath Temple",
+        "type": "temple",
+        "distance": 2,
+        "description": "Ancient Shaivite temple on hilltop",
+        "mapLink": "https://maps.google.com/?q=Siddhanath+Temple+Omkareshwar"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "low",
+      "estimatedWait": "40 min",
+      "currentFootfall": 5000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Om-Shaped Island",
+      "Narmada River",
+      "Two Jyotirlingas",
+      "Sacred Parikrama"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Narmada Jayanti",
+      "Kartik Purnima (Nov)"
+    ]
+  },
+  {
+    "id": "kedarnath",
+    "name": "Kedarnath Temple",
+    "deity": "Lord Shiva",
+    "location": "Kedarnath, Uttarakhand",
+    "state": "Uttarakhand",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/1280px-Kedarnath_Temple_in_Rainy_season.jpg",
+    "officialWebsite": "https://badrinath-kedarnath.gov.in",
+    "bookingUrl": "https://registrationandtouristcare.uk.gov.in/",
+    "description": "At 11,755 ft in Garhwal Himalayas, a Char Dham and Jyotirlinga. Over 1,000 years old, it survived the 2013 floods miraculously.",
+    "timings": {
+      "morning": {
+        "open": "06:00",
+        "close": "15:00"
+      },
+      "evening": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "special": "Open only May to November"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Regular Darshan (Registration Mandatory)",
+        "price": 0,
+        "waitTime": "1-3 hours",
+        "description": "Free. E-registration mandatory.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Priority Darshan",
+        "price": 1500,
+        "waitTime": "30-60 min",
+        "description": "Priority entry via Uttarakhand Tourism.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "Helicopter + VIP",
+        "price": 7500,
+        "waitTime": "15-20 min",
+        "description": "Round-trip helicopter + VIP darshan.",
+        "available": false
+      }
+    ],
+    "bookingProcess": [
+      "Register on registrationandtouristcare.uk.gov.in",
+      "Select Kedarnath",
+      "Enter details and medical declaration",
+      "For helicopter: heliservices.uk.gov.in",
+      "Download certificate and carry with ID"
+    ],
+    "importantNotes": [
+      "CLOSED Nov-April",
+      "Registration MANDATORY",
+      "Trek 16 km from Gaurikund (6-8 hrs)",
+      "Ponies ₹2000-3000, Palkis ₹5000-8000"
+    ],
+    "dharamshalas": [
+      {
+        "name": "GMVN Guest House",
+        "distance": "0.5 km",
+        "priceRange": "₹500-2000/night",
+        "phone": "+91-1364-263248",
+        "bookingLink": "https://gmvn.in"
+      },
+      {
+        "name": "Kedarnath Mandir Samiti Rooms",
+        "distance": "0.2 km",
+        "priceRange": "₹300-800/night",
+        "phone": "+91-1364-263249",
+        "bookingLink": "https://badrinath-kedarnath.gov.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Chorabari Tal (Gandhi Sarovar)",
+        "type": "nature",
+        "distance": 3,
+        "description": "Glacial lake at 14,000 ft",
+        "mapLink": "https://maps.google.com/?q=Chorabari+Tal"
+      },
+      {
+        "name": "Vasuki Tal",
+        "type": "nature",
+        "distance": 8,
+        "description": "High altitude lake surrounded by peaks",
+        "mapLink": "https://maps.google.com/?q=Vasuki+Tal+Kedarnath"
+      },
+      {
+        "name": "Shankaracharya Samadhi",
+        "type": "heritage",
+        "distance": 1,
+        "description": "Samadhi of Adi Shankaracharya",
+        "mapLink": "https://maps.google.com/?q=Shankaracharya+Samadhi+Kedarnath"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "high",
+      "estimatedWait": "3 hours",
+      "currentFootfall": 12000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "11,755 ft Altitude",
+      "Char Dham",
+      "Jyotirlinga",
+      "Survived 2013 Floods"
+    ],
+    "festivals": [
+      "Kedarnath Opening (May)",
+      "Maha Shivaratri",
+      "Akshaya Tritiya"
+    ]
+  },
+  {
+    "id": "bhimashankar",
+    "name": "Bhimashankar Temple",
+    "deity": "Lord Shiva",
+    "location": "Pune, Maharashtra",
+    "state": "Maharashtra",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bhimashankar.jpg",
+    "officialWebsite": "https://bhimashankar.in",
+    "bookingUrl": "https://bhimashankar.in",
+    "description": "Nestled in the Sahyadri hills, source of river Bhima. The temple is in a wildlife sanctuary — home to the Indian Giant Squirrel.",
+    "timings": {
+      "morning": {
+        "open": "05:00",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "special": "Monsoon season (Jul-Sep) is most scenic"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-2 hours",
+        "description": "Free entry for all.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Abhishek Pooja",
+        "price": 500,
+        "waitTime": "20-30 min",
+        "description": "Personal abhishek with priest.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit bhimashankar.in",
+      "Select pooja/darshan type",
+      "Register and pay online",
+      "Carry receipt + ID"
+    ],
+    "importantNotes": [
+      "Located in wildlife sanctuary",
+      "Trek route from Khandas village (3 hrs)",
+      "Best visited during monsoons",
+      "Giant Malabar Squirrel habitat"
+    ],
+    "dharamshalas": [
+      {
+        "name": "MTDC Resort Bhimashankar",
+        "distance": "1 km",
+        "priceRange": "₹1000-3000/night",
+        "phone": "+91-2133-263215",
+        "bookingLink": "https://mtdc.co.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Bhimashankar Wildlife Sanctuary",
+        "type": "nature",
+        "distance": 0,
+        "description": "Home to Indian Giant Squirrel",
+        "mapLink": "https://maps.google.com/?q=Bhimashankar+Wildlife+Sanctuary"
+      },
+      {
+        "name": "Gupt Bhimashankar",
+        "type": "temple",
+        "distance": 2,
+        "description": "Hidden Shiva temple in forest",
+        "mapLink": "https://maps.google.com/?q=Gupt+Bhimashankar"
+      },
+      {
+        "name": "Hanuman Lake",
+        "type": "nature",
+        "distance": 3,
+        "description": "Scenic lake for trekking",
+        "mapLink": "https://maps.google.com/?q=Hanuman+Lake+Bhimashankar"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "low",
+      "estimatedWait": "30 min",
+      "currentFootfall": 3000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Sahyadri Hills",
+      "Wildlife Sanctuary",
+      "Source of Bhima River",
+      "Monsoon Beauty"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Shravan Month (Jul-Aug)"
+    ]
+  },
+  {
+    "id": "kashi-vishwanath",
+    "name": "Kashi Vishwanath Temple",
+    "deity": "Lord Shiva",
+    "location": "Varanasi, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kashi_Vishwanath.jpg",
+    "officialWebsite": "https://shrikashivishwanath.org",
+    "bookingUrl": "https://shrikashivishwanath.org/booking/",
+    "description": "One of 12 Jyotirlingas on the western bank of Ganga in Varanasi. The Kashi Vishwanath Corridor has transformed the experience.",
+    "timings": {
+      "morning": {
+        "open": "04:00",
+        "close": "11:00"
+      },
+      "evening": {
+        "open": "12:00",
+        "close": "21:00"
+      },
+      "special": "Mangala Aarti at 03:00 AM"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Samanya Darshan",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Free entry. No registration.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Special Darshan",
+        "price": 250,
+        "waitTime": "30-60 min",
+        "description": "Online timed entry.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "Rudrabhishek + VIP",
+        "price": 1100,
+        "waitTime": "15-20 min",
+        "description": "Special pooja + VIP priority.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit shrikashivishwanath.org",
+      "Click Online Booking",
+      "Register with mobile + OTP",
+      "Select darshan type and date",
+      "Pay and download QR e-ticket"
+    ],
+    "importantNotes": [
+      "Free darshan needs no booking",
+      "Bookings open 3 days in advance",
+      "Carry Aadhaar/Passport",
+      "Ganga Aarti at Dashashwamedh Ghat — must see"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Kashi Vishwanath Trust Niwas",
+        "distance": "0.3 km",
+        "priceRange": "₹400-1500/night",
+        "phone": "+91-542-2392629",
+        "bookingLink": "https://shrikashivishwanath.org"
+      },
+      {
+        "name": "UP Tourism Guest House",
+        "distance": "1 km",
+        "priceRange": "₹600-2000/night",
+        "phone": "+91-542-2208413",
+        "bookingLink": "https://uptourism.gov.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Dashashwamedh Ghat",
+        "type": "heritage",
+        "distance": 1,
+        "description": "Famous Ganga Aarti every evening",
+        "mapLink": "https://maps.google.com/?q=Dashashwamedh+Ghat+Varanasi"
+      },
+      {
+        "name": "Sarnath",
+        "type": "heritage",
+        "distance": 10,
+        "description": "Where Buddha gave first sermon",
+        "mapLink": "https://maps.google.com/?q=Sarnath+Varanasi"
+      },
+      {
+        "name": "Manikarnika Ghat",
+        "type": "heritage",
+        "distance": 1,
+        "description": "Sacred cremation ghat — eternal flame",
+        "mapLink": "https://maps.google.com/?q=Manikarnika+Ghat+Varanasi"
+      },
+      {
+        "name": "BHU Campus",
+        "type": "heritage",
+        "distance": 5,
+        "description": "Banaras Hindu University with Vishwanath Temple",
+        "mapLink": "https://maps.google.com/?q=BHU+Varanasi"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "high",
+      "estimatedWait": "3 hours",
+      "currentFootfall": 35000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Jyotirlinga",
+      "Ganga Aarti",
+      "Kashi Corridor",
+      "Ancient Heritage"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Dev Deepawali (Nov)",
+      "Sawan Somvar (Jul-Aug)"
+    ]
+  },
+  {
+    "id": "trimbakeshwar",
+    "name": "Trimbakeshwar Temple",
+    "deity": "Lord Shiva",
+    "location": "Nashik, Maharashtra",
+    "state": "Maharashtra",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg/1280px-Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg",
+    "officialWebsite": "https://trimbakeshwartrust.com",
+    "bookingUrl": "https://trimbakeshwartrust.com",
+    "description": "Unique Jyotirlinga with three faces representing Brahma, Vishnu, and Mahesh. Source of Godavari river. One of 4 Kumbh Mela sites.",
+    "timings": {
+      "morning": {
+        "open": "05:30",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "special": "Naag Pooja performed only here"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-2 hours",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Kaal Sarp Pooja",
+        "price": 2100,
+        "waitTime": "By appointment",
+        "description": "Famous Naag pooja — book via trust.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit trimbakeshwartrust.com",
+      "Select pooja type (Kaal Sarp/Tripindi)",
+      "Choose date and pandit",
+      "Pay online",
+      "Report with e-receipt"
+    ],
+    "importantNotes": [
+      "Famous for Kaal Sarp Dosh Pooja",
+      "Source of river Godavari",
+      "Kumbh Mela city",
+      "Photography inside restricted"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Trimbakeshwar Trust Dharamshala",
+        "distance": "0.3 km",
+        "priceRange": "₹300-1000/night",
+        "phone": "+91-2594-233505",
+        "bookingLink": "https://trimbakeshwartrust.com"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Brahmagiri Hill",
+        "type": "nature",
+        "distance": 3,
+        "description": "Source of river Godavari — 700 steps trek",
+        "mapLink": "https://maps.google.com/?q=Brahmagiri+Hill+Trimbak"
+      },
+      {
+        "name": "Anjaneri Fort",
+        "type": "nature",
+        "distance": 10,
+        "description": "Birthplace of Lord Hanuman — scenic trek",
+        "mapLink": "https://maps.google.com/?q=Anjaneri+Fort"
+      },
+      {
+        "name": "Sula Vineyards",
+        "type": "heritage",
+        "distance": 30,
+        "description": "India's most famous winery in Nashik",
+        "mapLink": "https://maps.google.com/?q=Sula+Vineyards+Nashik"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "1.5 hours",
+      "currentFootfall": 10000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Three-Faced Linga",
+      "Source of Godavari",
+      "Kumbh Mela City",
+      "Kaal Sarp Pooja"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Sinhastha Kumbh (Every 12 yrs)",
+      "Shravan Month"
+    ]
+  },
+  {
+    "id": "baidyanath",
+    "name": "Baidyanath Dham",
+    "deity": "Lord Shiva",
+    "location": "Deoghar, Jharkhand",
+    "state": "Jharkhand",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Baba_Baidyanath_Jyotirlinga_Temple.jpg",
+    "officialWebsite": "https://babadham.org",
+    "bookingUrl": "https://babadham.org",
+    "description": "Also called Baba Dham, where Ravana worshipped Lord Shiva. The temple complex has 21 other temples within its premises.",
+    "timings": {
+      "morning": {
+        "open": "04:00",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "special": "Shravan Mela draws millions of Kanwariyas"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Sparsh Darshan",
+        "price": 500,
+        "waitTime": "30 min",
+        "description": "Touch the Shivalinga. Book via website.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit babadham.org",
+      "Register and select darshan type",
+      "Choose date and time",
+      "Pay online and download pass"
+    ],
+    "importantNotes": [
+      "Carry water from Sultanganj (105 km) for Jal Abhishek",
+      "Shravan month is extremely crowded",
+      "21 temples in one complex"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Baidyanath Trust Guest House",
+        "distance": "0.3 km",
+        "priceRange": "₹300-1000/night",
+        "phone": "+91-6432-232200",
+        "bookingLink": "https://babadham.org"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Nandan Pahar",
+        "type": "nature",
+        "distance": 2,
+        "description": "Hill park with cable car rides",
+        "mapLink": "https://maps.google.com/?q=Nandan+Pahar+Deoghar"
+      },
+      {
+        "name": "Trikut Pahar",
+        "type": "nature",
+        "distance": 10,
+        "description": "Three-peaked hill with ropeway",
+        "mapLink": "https://maps.google.com/?q=Trikut+Pahar+Deoghar"
+      },
+      {
+        "name": "Tapovan",
+        "type": "heritage",
+        "distance": 7,
+        "description": "Hot water spring and meditation cave",
+        "mapLink": "https://maps.google.com/?q=Tapovan+Deoghar"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "2 hours",
+      "currentFootfall": 15000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Ravana's Worship Site",
+      "21 Temple Complex",
+      "Shravan Mela",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Shravan Mela (Jul-Aug)",
+      "Maha Shivaratri (Feb-Mar)"
+    ]
+  },
+  {
+    "id": "nageshwar",
+    "name": "Nageshwar Jyotirlinga",
+    "deity": "Lord Shiva",
+    "location": "Dwarka, Gujarat",
+    "state": "Gujarat",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nageshwar.JPG/1280px-Nageshwar.JPG",
+    "officialWebsite": "https://nageshwarjyotirling.in",
+    "bookingUrl": "https://nageshwarjyotirling.in",
+    "description": "Located between Gomti Dwarka and Bait Dwarka island. Famous for the massive 80-ft Shiva statue outside.",
+    "timings": {
+      "morning": {
+        "open": "06:00",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "special": "Rudrabhishek available daily"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "30-60 min",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Rudrabhishek",
+        "price": 300,
+        "waitTime": "15 min",
+        "description": "Personal Rudrabhishek pooja.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit nageshwarjyotirling.in",
+      "Contact temple office for special pooja",
+      "Or visit directly — minimal wait"
+    ],
+    "importantNotes": [
+      "80-ft tall Shiva statue outside",
+      "Near Dwarka — combine both temples",
+      "Less crowded compared to other Jyotirlingas"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Temple Trust Dharamshala",
+        "distance": "0.5 km",
+        "priceRange": "₹200-500/night",
+        "phone": "+91-2892-234567",
+        "bookingLink": ""
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Dwarkadhish Temple",
+        "type": "temple",
+        "distance": 18,
+        "description": "Sacred Krishna temple — Char Dham",
+        "mapLink": "https://maps.google.com/?q=Dwarkadhish+Temple"
+      },
+      {
+        "name": "Bait Dwarka",
+        "type": "temple",
+        "distance": 30,
+        "description": "Island temple of Lord Krishna",
+        "mapLink": "https://maps.google.com/?q=Bait+Dwarka"
+      },
+      {
+        "name": "Gopi Talav",
+        "type": "heritage",
+        "distance": 22,
+        "description": "Lake where Gopis are said to have merged",
+        "mapLink": "https://maps.google.com/?q=Gopi+Talav+Dwarka"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "low",
+      "estimatedWait": "20 min",
+      "currentFootfall": 3000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "80-ft Shiva Statue",
+      "Near Dwarka",
+      "Less Crowded",
+      "Coastal Location"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Janmashtami (Aug-Sep)"
+    ]
+  },
+  {
+    "id": "ramanathaswamy",
+    "name": "Ramanathaswamy Temple",
+    "deity": "Lord Shiva",
+    "location": "Rameswaram, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/1280px-Ramanathaswamy_temple7.JPG",
+    "officialWebsite": "https://rameswaramtemple.tnhrce.in",
+    "bookingUrl": "https://rameswaramtemple.tnhrce.in",
+    "description": "A Char Dham site built by Lord Rama. Houses the longest corridor of any Hindu temple. 22 sacred wells for ritual bathing.",
+    "timings": {
+      "morning": {
+        "open": "05:00",
+        "close": "13:00"
+      },
+      "evening": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "special": "22 Theertham (holy well) bath ritual"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-2 hours",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Abhishekam",
+        "price": 300,
+        "waitTime": "20-30 min",
+        "description": "Special abhishekam via HR&CE portal.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit rameswaramtemple.tnhrce.in",
+      "Register and select pooja",
+      "Choose date and pay online",
+      "Carry e-receipt + ID"
+    ],
+    "importantNotes": [
+      "Bathe in all 22 Theerthams before darshan",
+      "Longest corridor in any Hindu temple",
+      "Near Pamban Bridge — scenic drive",
+      "Char Dham site"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Devasthanam Choultry",
+        "distance": "0.3 km",
+        "priceRange": "₹200-800/night",
+        "phone": "+91-4573-221223",
+        "bookingLink": "https://rameswaramtemple.tnhrce.in"
+      },
+      {
+        "name": "TTDC Hotel Tamil Nadu",
+        "distance": "1 km",
+        "priceRange": "₹800-2500/night",
+        "phone": "+91-4573-221067",
+        "bookingLink": "https://ttdc.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Pamban Bridge",
+        "type": "heritage",
+        "distance": 10,
+        "description": "India's first sea bridge — stunning views",
+        "mapLink": "https://maps.google.com/?q=Pamban+Bridge"
+      },
+      {
+        "name": "Dhanushkodi",
+        "type": "nature",
+        "distance": 20,
+        "description": "Ghost town at India's tip — last land before Sri Lanka",
+        "mapLink": "https://maps.google.com/?q=Dhanushkodi"
+      },
+      {
+        "name": "Adam's Bridge",
+        "type": "nature",
+        "distance": 25,
+        "description": "Chain of limestone shoals — Ram Setu",
+        "mapLink": "https://maps.google.com/?q=Adams+Bridge"
+      },
+      {
+        "name": "APJ Abdul Kalam House",
+        "type": "heritage",
+        "distance": 5,
+        "description": "Memorial of India's Missile Man",
+        "mapLink": "https://maps.google.com/?q=APJ+Abdul+Kalam+House+Rameswaram"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "1.5 hours",
+      "currentFootfall": 12000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Char Dham",
+      "Longest Temple Corridor",
+      "22 Sacred Wells",
+      "Ram Setu"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Arudra Darisanam (Dec-Jan)",
+      "Navratri (Sep-Oct)"
+    ]
+  },
+  {
+    "id": "grishneshwar",
+    "name": "Grishneshwar Temple",
+    "deity": "Lord Shiva",
+    "location": "Ellora, Maharashtra",
+    "state": "Maharashtra",
+    "category": "Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Grishneshwar_temple_in_Aurangabad_district.jpg/1280px-Grishneshwar_temple_in_Aurangabad_district.jpg",
+    "officialWebsite": "https://grishneshwarjyotirling.org",
+    "bookingUrl": "https://grishneshwarjyotirling.org",
+    "description": "Last of the 12 Jyotirlingas, located near the UNESCO Ellora Caves. A beautiful red stone temple built by Ahilyabai Holkar.",
+    "timings": {
+      "morning": {
+        "open": "05:30",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "17:00",
+        "close": "21:30"
+      },
+      "special": "Built by Ahilyabai Holkar in 18th century"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "30-60 min",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Mahapooja",
+        "price": 500,
+        "waitTime": "15-20 min",
+        "description": "Special pooja with priest.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit grishneshwarjyotirling.org",
+      "Or visit directly — usually less crowded",
+      "For special pooja, contact temple office in advance"
+    ],
+    "importantNotes": [
+      "Near UNESCO Ellora Caves — combine visit",
+      "Less crowded than other Jyotirlingas",
+      "Built by Ahilyabai Holkar",
+      "Beautiful red stone architecture"
+    ],
+    "dharamshalas": [
+      {
+        "name": "MTDC Ellora",
+        "distance": "2 km",
+        "priceRange": "₹800-2500/night",
+        "phone": "+91-2437-244446",
+        "bookingLink": "https://mtdc.co.in"
+      },
+      {
+        "name": "Temple Trust Rooms",
+        "distance": "0.5 km",
+        "priceRange": "₹200-500/night",
+        "phone": "+91-2437-244123",
+        "bookingLink": ""
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Ellora Caves (UNESCO)",
+        "type": "heritage",
+        "distance": 2,
+        "description": "34 rock-cut Buddhist, Hindu & Jain caves",
+        "mapLink": "https://maps.google.com/?q=Ellora+Caves"
+      },
+      {
+        "name": "Daulatabad Fort",
+        "type": "heritage",
+        "distance": 15,
+        "description": "Impregnable medieval fortress",
+        "mapLink": "https://maps.google.com/?q=Daulatabad+Fort"
+      },
+      {
+        "name": "Ajanta Caves (UNESCO)",
+        "type": "heritage",
+        "distance": 100,
+        "description": "30 Buddhist cave paintings — masterpiece of art",
+        "mapLink": "https://maps.google.com/?q=Ajanta+Caves"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "low",
+      "estimatedWait": "20 min",
+      "currentFootfall": 4000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Last Jyotirlinga",
+      "Near Ellora Caves",
+      "Red Stone Architecture",
+      "Ahilyabai Holkar"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Shravan Month (Jul-Aug)"
+    ]
+  },
+  {
+    "id": "kamakhya",
+    "name": "Kamakhya Devi Temple",
+    "deity": "Goddess Kamakhya",
+    "location": "Guwahati, Assam",
+    "state": "Assam",
+    "category": "Shakti Peeth",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kamakhya_Temple_-_DEV_8829.jpg/1280px-Kamakhya_Temple_-_DEV_8829.jpg",
+    "officialWebsite": "https://mkdonline.in",
+    "bookingUrl": "https://mkdonline.in",
+    "description": "Most powerful of the 51 Shakti Peeths atop Nilachal Hill. Known for the Ambubachi Mela when the temple closes for 3 days.",
+    "timings": {
+      "morning": {
+        "open": "05:30",
+        "close": "13:00"
+      },
+      "evening": {
+        "open": "14:30",
+        "close": "17:30"
+      },
+      "special": "Ambubachi Mela (Jun) draws millions"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "3-5 hours",
+        "description": "Free entry through queue.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Special Entry",
+        "price": 500,
+        "waitTime": "1-2 hours",
+        "description": "Faster entry via online booking.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit mkdonline.in",
+      "Register and select date",
+      "Download e-pass with QR",
+      "Show at special entry gate"
+    ],
+    "importantNotes": [
+      "Long queues — arrive early morning",
+      "Ambubachi Mela (3 days Jun) — temple closes",
+      "Atop Nilachal Hill — scenic views"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Kamakhya Temple Trust Rooms",
+        "distance": "0.3 km",
+        "priceRange": "₹300-1000/night",
+        "phone": "+91-361-2610507",
+        "bookingLink": "https://mkdonline.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Umananda Island",
+        "type": "temple",
+        "distance": 5,
+        "description": "Smallest river island with Shiva temple",
+        "mapLink": "https://maps.google.com/?q=Umananda+Island+Guwahati"
+      },
+      {
+        "name": "Balaji Temple",
+        "type": "temple",
+        "distance": 3,
+        "description": "Replica of Tirupati on Nilachal Hill",
+        "mapLink": "https://maps.google.com/?q=Balaji+Temple+Guwahati"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "high",
+      "estimatedWait": "4 hours",
+      "currentFootfall": 20000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Most Powerful Shakti Peeth",
+      "Nilachal Hill",
+      "Ambubachi Mela",
+      "Tantric Tradition"
+    ],
+    "festivals": [
+      "Ambubachi Mela (Jun)",
+      "Navratri (Sep-Oct)",
+      "Durga Puja (Oct)"
+    ]
+  },
+  {
+    "id": "vaishno-devi",
+    "name": "Vaishno Devi Mandir",
+    "deity": "Goddess Vaishno Devi",
+    "location": "Katra, Jammu & Kashmir",
+    "state": "Jammu & Kashmir",
+    "category": "Shakti Peeth",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mata_Vaishno_Devi_Bhawan.jpg",
+    "officialWebsite": "https://www.maavaishnodevi.org",
+    "bookingUrl": "https://www.maavaishnodevi.org/yatrasregistrations.aspx",
+    "description": "Cave temple at 5,200 ft in Trikuta Mountains. 13 km trek through scenic trails. Yatra registration mandatory.",
+    "timings": {
+      "morning": {
+        "open": "05:00",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "special": "Aarti at 06:00 AM and 07:00 PM daily"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Yatra Registration (Free, Mandatory)",
+        "price": 0,
+        "waitTime": "3-5 hours",
+        "description": "Free darshan. Registration mandatory.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Helicopter + Express",
+        "price": 1800,
+        "waitTime": "1-2 hours",
+        "description": "Helicopter from Katra + priority.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "VIP Pass",
+        "price": 5000,
+        "waitTime": "15-30 min",
+        "description": "Skip-the-line VIP access.",
+        "available": false
+      }
+    ],
+    "bookingProcess": [
+      "Visit maavaishnodevi.org",
+      "Click Yatra Registration (MANDATORY)",
+      "Create account, fill details, select date",
+      "For Helicopter: Click Helicopter Booking",
+      "Pay and download tickets + Yatra Slip"
+    ],
+    "importantNotes": [
+      "Registration FREE but MANDATORY",
+      "Without it you CANNOT start trek",
+      "Helicopter sells out 1-2 weeks ahead",
+      "Ponies/Palkis ₹500-2500"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Shrine Board Bhawans",
+        "distance": "At base/en route",
+        "priceRange": "₹500-2000/night",
+        "phone": "+91-1991-232503",
+        "bookingLink": "https://www.maavaishnodevi.org"
+      },
+      {
+        "name": "Adhkuwari Complex",
+        "distance": "Midway",
+        "priceRange": "₹300-800/night",
+        "phone": "+91-1991-232504",
+        "bookingLink": "https://www.maavaishnodevi.org"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Patnitop",
+        "type": "nature",
+        "distance": 80,
+        "description": "Hill station with snow in winter",
+        "mapLink": "https://maps.google.com/?q=Patnitop"
+      },
+      {
+        "name": "Bahu Fort",
+        "type": "heritage",
+        "distance": 50,
+        "description": "Ancient fort in Jammu city",
+        "mapLink": "https://maps.google.com/?q=Bahu+Fort+Jammu"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "3 hours",
+      "currentFootfall": 18000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Trikuta Mountains",
+      "13 km Trek",
+      "Holy Cave",
+      "Pindi Darshan"
+    ],
+    "festivals": [
+      "Navratri (Mar-Apr, Sep-Oct)",
+      "Diwali (Oct-Nov)"
+    ]
+  },
+  {
+    "id": "tirupati-balaji",
+    "name": "Tirumala Venkateswara",
+    "deity": "Lord Venkateswara",
+    "location": "Tirupati, Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "category": "Divya Desam",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/1280px-Tirumala_090615.jpg",
+    "officialWebsite": "https://www.tirumala.org",
+    "bookingUrl": "https://tirupatibalaji.ap.gov.in",
+    "description": "World's most visited and richest temple. 50,000+ daily devotees. Seven Hills of Tirumala. AI-powered crowd management.",
+    "timings": {
+      "morning": {
+        "open": "05:30",
+        "close": "13:00"
+      },
+      "evening": {
+        "open": "14:00",
+        "close": "21:00"
+      },
+      "special": "Suprabhatam at 03:00 AM"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Sarva Darshan",
+        "price": 0,
+        "waitTime": "6-10 hours",
+        "description": "Free. Just join queue at Tirumala.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Special Entry Darshan",
+        "price": 300,
+        "waitTime": "2-3 hours",
+        "description": "Online booking via TTD.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "VIP Break Darshan",
+        "price": 500,
+        "waitTime": "30-60 min",
+        "description": "VIP queue + Laddu prasadam.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit tirupatibalaji.ap.gov.in",
+      "Click E-Tickets",
+      "Register with Aadhaar-linked mobile",
+      "Select darshan type and date",
+      "Pay, download e-ticket, carry with ID"
+    ],
+    "importantNotes": [
+      "Slots open 2 days in advance at 10 AM",
+      "Carry original Aadhaar/Passport",
+      "No phones/cameras inside",
+      "TTD website also for accommodation"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Srinivasam Complex",
+        "distance": "At Tirupati",
+        "priceRange": "₹100-500/night",
+        "phone": "+91-877-2233333",
+        "bookingLink": "https://tirupatibalaji.ap.gov.in"
+      },
+      {
+        "name": "Sudharsanam Guest House",
+        "distance": "At Tirumala",
+        "priceRange": "₹200-1500/night",
+        "phone": "+91-877-2277777",
+        "bookingLink": "https://tirupatibalaji.ap.gov.in"
+      },
+      {
+        "name": "KPS Guest House",
+        "distance": "At Tirumala",
+        "priceRange": "₹500-2000/night",
+        "phone": "+91-877-2263333",
+        "bookingLink": "https://tirupatibalaji.ap.gov.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Sri Kalahasti Temple",
+        "type": "temple",
+        "distance": 36,
+        "description": "Vayu Linga — one of Pancha Bhoota Sthalams",
+        "mapLink": "https://maps.google.com/?q=Sri+Kalahasti+Temple"
+      },
+      {
+        "name": "Kanipakam Vinayaka Temple",
+        "type": "temple",
+        "distance": 75,
+        "description": "Self-growing Ganesh idol",
+        "mapLink": "https://maps.google.com/?q=Kanipakam+Temple"
+      },
+      {
+        "name": "Talakona Waterfall",
+        "type": "nature",
+        "distance": 49,
+        "description": "Highest waterfall in Andhra Pradesh",
+        "mapLink": "https://maps.google.com/?q=Talakona+Waterfall"
+      },
+      {
+        "name": "Chandragiri Fort",
+        "type": "heritage",
+        "distance": 15,
+        "description": "Vijayanagara era fort",
+        "mapLink": "https://maps.google.com/?q=Chandragiri+Fort+Tirupati"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "high",
+      "estimatedWait": "4 hours",
+      "currentFootfall": 42000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Seven Hills",
+      "Laddu Prasadam",
+      "Golden Vimana",
+      "Richest Temple"
+    ],
+    "festivals": [
+      "Brahmotsavam (Sep-Oct)",
+      "Vaikunta Ekadashi (Dec-Jan)"
+    ]
+  },
+  {
+    "id": "sabarimala",
+    "name": "Sabarimala Ayyappa",
+    "deity": "Lord Ayyappa",
+    "location": "Pathanamthitta, Kerala",
+    "state": "Kerala",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Sabarimala_2.jpg",
+    "officialWebsite": "https://sabarimalaonline.org",
+    "bookingUrl": "https://sabarimalaonline.org",
+    "description": "Hilltop temple at 1,500 m. Open only during specific seasons. Famous 41-day Mandalam season draws 50 million pilgrims.",
+    "timings": {
+      "morning": {
+        "open": "04:00",
+        "close": "14:00"
+      },
+      "evening": {
+        "open": "17:00",
+        "close": "22:00"
+      },
+      "special": "Open specific seasons only (Nov-Jan, Apr, monthly)"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Virtual Queue Booking (Free)",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Virtual queue booking mandatory.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Appam/Aravana Pooja",
+        "price": 250,
+        "waitTime": "With darshan",
+        "description": "Online pooja booking.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit sabarimalaonline.org",
+      "Book Virtual Queue slot (MANDATORY)",
+      "Select date, time slot",
+      "Complete ID verification",
+      "Download QR pass",
+      "Start trek from Pamba"
+    ],
+    "importantNotes": [
+      "41-day vratham (penance) recommended before visit",
+      "Women aged 10-50 restricted (as per tradition)",
+      "Trek 4.5 km from Pamba to Sannidhanam",
+      "Virtual queue MANDATORY"
+    ],
+    "dharamshalas": [
+      {
+        "name": "TDB Guest Houses",
+        "distance": "At Pamba/Sannidhanam",
+        "priceRange": "₹200-1000/night",
+        "phone": "+91-4735-203200",
+        "bookingLink": "https://sabarimalaonline.org"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Pamba River",
+        "type": "nature",
+        "distance": 5,
+        "description": "Sacred river — ritual bath before trek",
+        "mapLink": "https://maps.google.com/?q=Pamba+River+Sabarimala"
+      },
+      {
+        "name": "Periyar Tiger Reserve",
+        "type": "nature",
+        "distance": 70,
+        "description": "Famous wildlife sanctuary",
+        "mapLink": "https://maps.google.com/?q=Periyar+Tiger+Reserve"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "extreme",
+      "estimatedWait": "5 hours",
+      "currentFootfall": 80000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "1,500m Hilltop",
+      "50M Annual Pilgrims",
+      "41-Day Vratham",
+      "18 Sacred Steps"
+    ],
+    "festivals": [
+      "Mandalam Season (Nov-Jan)",
+      "Makaravilakku (Jan)"
+    ]
+  },
+  {
+    "id": "guruvayur",
+    "name": "Guruvayur Sri Krishna",
+    "deity": "Lord Krishna",
+    "location": "Guruvayur, Kerala",
+    "state": "Kerala",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Guruvayoor_Temple_1.jpg",
+    "officialWebsite": "https://guruvayurdevaswom.in",
+    "bookingUrl": "https://guruvayurdevaswom.in",
+    "description": "Called the Dwarka of the South. One of the most important Krishna temples. Famous for Tuldabharam (weighing against offerings).",
+    "timings": {
+      "morning": {
+        "open": "03:00",
+        "close": "12:30"
+      },
+      "evening": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "special": "Opens at 03:00 AM — Nirmalya Darshan"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Tuldabharam",
+        "price": 500,
+        "waitTime": "By booking",
+        "description": "Weighing against offerings — book online.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit guruvayurdevaswom.in",
+      "Select Online Booking",
+      "Register and choose pooja type",
+      "Pay online, download receipt"
+    ],
+    "importantNotes": [
+      "Non-Hindus NOT allowed inside",
+      "Strict dress code: Men — dhoti, Women — saree/churidar",
+      "Opens as early as 3 AM",
+      "Elephant sanctuary (Punnathur Kotta) nearby"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Devaswom Guest Houses",
+        "distance": "0.5 km",
+        "priceRange": "₹300-1200/night",
+        "phone": "+91-487-2556137",
+        "bookingLink": "https://guruvayurdevaswom.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Punnathur Kotta (Elephant Sanctuary)",
+        "type": "nature",
+        "distance": 3,
+        "description": "60+ temple elephants",
+        "mapLink": "https://maps.google.com/?q=Punnathur+Kotta+Guruvayur"
+      },
+      {
+        "name": "Mammiyur Mahadeva Temple",
+        "type": "temple",
+        "distance": 1,
+        "description": "Ancient Shiva temple near Guruvayur",
+        "mapLink": "https://maps.google.com/?q=Mammiyur+Temple+Guruvayur"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "high",
+      "estimatedWait": "3 hours",
+      "currentFootfall": 25000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Dwarka of South",
+      "Tuldabharam",
+      "Nirmalya Darshan",
+      "Elephant Sanctuary"
+    ],
+    "festivals": [
+      "Guruvayur Ekadashi (Nov-Dec)",
+      "Utsavam (Feb-Mar)"
+    ]
+  },
+  {
+    "id": "golden-temple",
+    "name": "Harmandir Sahib (Golden Temple)",
+    "deity": "Guru Granth Sahib",
+    "location": "Amritsar, Punjab",
+    "state": "Punjab",
+    "category": "Sikh Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/1280px-The_Golden_Temple_of_Amrithsar_7.jpg",
+    "officialWebsite": "https://www.goldentempleamritsar.org",
+    "bookingUrl": "https://www.goldentempleamritsar.org",
+    "description": "Holiest Sikh shrine. Pure gold leaf exterior. Free Langar feeds 100,000+ daily. Open to ALL faiths.",
+    "timings": {
+      "morning": {
+        "open": "04:00",
+        "close": "14:00"
+      },
+      "evening": {
+        "open": "14:00",
+        "close": "23:00"
+      },
+      "special": "Open 20+ hours. Palki Sahib at 10 PM"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Free & Open to All",
+        "price": 0,
+        "waitTime": "30-90 min",
+        "description": "No ticket. No registration. Just visit.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "NO booking needed — temple is FREE and OPEN to all",
+      "Simply visit Amritsar and enter",
+      "For Sarai (free rooms): Visit website",
+      "Free Langar 24/7 — no booking"
+    ],
+    "importantNotes": [
+      "Head covering mandatory — free at entrance",
+      "Remove shoes — free storage",
+      "No smoking/alcohol/meat in complex",
+      "Best: 4-6 AM (Prakash ceremony) or 10 PM (Palki Sahib)"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Central Sarai (Free)",
+        "distance": "0 km",
+        "priceRange": "FREE",
+        "phone": "+91-183-2553954",
+        "bookingLink": "https://www.goldentempleamritsar.org"
+      },
+      {
+        "name": "SGPC Niwas",
+        "distance": "0.5 km",
+        "priceRange": "₹200-500/night",
+        "phone": "+91-183-2553955",
+        "bookingLink": "https://www.goldentempleamritsar.org"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Jallianwala Bagh",
+        "type": "heritage",
+        "distance": 1,
+        "description": "Historic memorial of 1919 massacre",
+        "mapLink": "https://maps.google.com/?q=Jallianwala+Bagh"
+      },
+      {
+        "name": "Wagah Border",
+        "type": "heritage",
+        "distance": 28,
+        "description": "India-Pakistan border ceremony every evening",
+        "mapLink": "https://maps.google.com/?q=Wagah+Border"
+      },
+      {
+        "name": "Partition Museum",
+        "type": "heritage",
+        "distance": 1,
+        "description": "India's first museum on 1947 Partition",
+        "mapLink": "https://maps.google.com/?q=Partition+Museum+Amritsar"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "1 hour",
+      "currentFootfall": 60000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Pure Gold Leaf",
+      "Free Langar",
+      "Open to All",
+      "Amrit Sarovar"
+    ],
+    "festivals": [
+      "Baisakhi (Apr)",
+      "Guru Nanak Jayanti (Nov)",
+      "Diwali"
+    ]
+  },
+  {
+    "id": "siddhivinayak",
+    "name": "Siddhivinayak Temple",
+    "deity": "Lord Ganesha",
+    "location": "Mumbai, Maharashtra",
+    "state": "Maharashtra",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg/1280px-Shree_Siddhivinayak_Temple_Mumbai.jpg",
+    "officialWebsite": "https://www.siddhivinayak.org",
+    "bookingUrl": "https://www.siddhivinayak.org/online-booking",
+    "description": "Mumbai's most beloved Ganesha temple. 200-year-old right-trunk Ganesh idol considered extremely auspicious.",
+    "timings": {
+      "morning": {
+        "open": "05:30",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "22:00"
+      },
+      "special": "Tuesdays most crowded"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "2-5 hours",
+        "description": "Free. Very crowded Tuesdays.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Express Darshan",
+        "price": 200,
+        "waitTime": "30-60 min",
+        "description": "Online advance booking.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "VIP Abhishek",
+        "price": 1500,
+        "waitTime": "15-20 min",
+        "description": "VIP fast track + personal pooja.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit siddhivinayak.org",
+      "Click Online Booking",
+      "Register with mobile",
+      "Select date, time, darshan type",
+      "Pay and download QR e-ticket"
+    ],
+    "importantNotes": [
+      "Tuesdays most crowded — arrive very early",
+      "Express tickets limited per slot",
+      "Nearest: Dadar station",
+      "Lockers available outside"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Siddhivinayak Trust Niwas",
+        "distance": "0.5 km",
+        "priceRange": "₹500-1500/night",
+        "phone": "+91-22-24373626",
+        "bookingLink": "https://www.siddhivinayak.org"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Shree Mahalakshmi Temple",
+        "type": "temple",
+        "distance": 5,
+        "description": "Famous Mahalakshmi temple of Mumbai",
+        "mapLink": "https://maps.google.com/?q=Mahalakshmi+Temple+Mumbai"
+      },
+      {
+        "name": "Haji Ali Dargah",
+        "type": "heritage",
+        "distance": 6,
+        "description": "Iconic mosque on islet in the sea",
+        "mapLink": "https://maps.google.com/?q=Haji+Ali+Dargah+Mumbai"
+      },
+      {
+        "name": "Shivaji Park",
+        "type": "nature",
+        "distance": 2,
+        "description": "Historic ground — great for evening walks",
+        "mapLink": "https://maps.google.com/?q=Shivaji+Park+Mumbai"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "extreme",
+      "estimatedWait": "5 hours",
+      "currentFootfall": 50000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Right-Trunk Ganesha",
+      "Gold Dome",
+      "Most Visited in Mumbai",
+      "Celebrity Spot"
+    ],
+    "festivals": [
+      "Ganesh Chaturthi (Aug-Sep)",
+      "Angarki Chaturthi (Monthly)"
+    ]
+  },
+  {
+    "id": "shirdi-sai",
+    "name": "Shirdi Sai Baba Temple",
+    "deity": "Sai Baba of Shirdi",
+    "location": "Shirdi, Maharashtra",
+    "state": "Maharashtra",
+    "category": "Sai Baba",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sri_Sai_Baba_Temple_%2C_Shirdi.jpg",
+    "officialWebsite": "https://www.shrisaibabasansthan.org",
+    "bookingUrl": "https://online.sai.org.in/",
+    "description": "One of India's most visited temples. Samadhi Mandir, Dwarkamai, and Chavadi. 25,000+ devotees daily.",
+    "timings": {
+      "morning": {
+        "open": "05:30",
+        "close": "12:30"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "22:00"
+      },
+      "special": "Kakad Aarti 04:30 AM, Shej Aarti 10:30 PM"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Free. No booking needed.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Fast Track",
+        "price": 200,
+        "waitTime": "30-45 min",
+        "description": "Timed entry via online booking.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "VIP Premium",
+        "price": 1000,
+        "waitTime": "10-20 min",
+        "description": "Priority VIP lane.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit online.sai.org.in",
+      "Register with Aadhaar, mobile, email",
+      "Select darshan type and date",
+      "Enter devotee details (max 6)",
+      "Pay and download QR e-pass"
+    ],
+    "importantNotes": [
+      "Fast Track fills up on weekends",
+      "Accommodation also on same website",
+      "Prasad (Laddu) inside complex",
+      "Airport: Shirdi (14 km), Rail: Sainagar Shirdi"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Sai Ashram",
+        "distance": "0.3 km",
+        "priceRange": "₹300-1500/night",
+        "phone": "+91-2423-258500",
+        "bookingLink": "https://online.sai.org.in"
+      },
+      {
+        "name": "Bhaktaniwas",
+        "distance": "0.5 km",
+        "priceRange": "₹200-800/night",
+        "phone": "+91-2423-258501",
+        "bookingLink": "https://online.sai.org.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Dwarkamai",
+        "type": "temple",
+        "distance": 0,
+        "description": "Where Sai Baba lived — sacred fire still burns",
+        "mapLink": "https://maps.google.com/?q=Dwarkamai+Shirdi"
+      },
+      {
+        "name": "Shani Shingnapur",
+        "type": "temple",
+        "distance": 65,
+        "description": "Temple of Lord Shani — village with no doors",
+        "mapLink": "https://maps.google.com/?q=Shani+Shingnapur"
+      },
+      {
+        "name": "Nashik Wineries",
+        "type": "heritage",
+        "distance": 90,
+        "description": "Wine capital of India",
+        "mapLink": "https://maps.google.com/?q=Nashik+Wineries"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "high",
+      "estimatedWait": "3 hours",
+      "currentFootfall": 28000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Samadhi Mandir",
+      "Dwarkamai",
+      "Sai Teachings",
+      "Prasadalaya"
+    ],
+    "festivals": [
+      "Ram Navami (Mar-Apr)",
+      "Guru Purnima (Jul)",
+      "Vijayadashami (Oct)"
+    ]
+  },
+  {
+    "id": "ayodhya-ram-mandir",
+    "name": "Ayodhya Ram Mandir",
+    "deity": "Lord Rama",
+    "location": "Ayodhya, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ram_Janmbhoomi_Mandir%2C_Ayodhya_Dham.jpg",
+    "officialWebsite": "https://srjbtkshetra.org",
+    "bookingUrl": "https://srjbtkshetra.org",
+    "description": "Newly built grand Ram temple at Lord Rama's birthplace. Nagara style architecture. India's newest and most anticipated temple.",
+    "timings": {
+      "morning": {
+        "open": "07:00",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "14:00",
+        "close": "22:00"
+      },
+      "special": "Aarti at sunrise and sunset"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Free entry via queue.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Advance Slot Booking",
+        "price": 0,
+        "waitTime": "1 hour",
+        "description": "Free but advance slot booking required online.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit srjbtkshetra.org",
+      "Click on Darshan Booking",
+      "Register with Aadhaar",
+      "Select date and time slot",
+      "Download QR pass"
+    ],
+    "importantNotes": [
+      "New temple — expect high crowds",
+      "Mobile phones NOT allowed inside",
+      "Strict security screening",
+      "Advance booking recommended"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Shri Ram Janmabhoomi Trust Dharamshala",
+        "distance": "1 km",
+        "priceRange": "₹300-1500/night",
+        "phone": "+91-5278-232700",
+        "bookingLink": "https://srjbtkshetra.org"
+      },
+      {
+        "name": "UP Tourism Yatri Niwas",
+        "distance": "2 km",
+        "priceRange": "₹500-2000/night",
+        "phone": "+91-5278-232800",
+        "bookingLink": "https://uptourism.gov.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Hanuman Garhi",
+        "type": "temple",
+        "distance": 1,
+        "description": "Ancient Hanuman temple on hilltop",
+        "mapLink": "https://maps.google.com/?q=Hanuman+Garhi+Ayodhya"
+      },
+      {
+        "name": "Kanak Bhawan",
+        "type": "temple",
+        "distance": 1,
+        "description": "Temple of Sita-Ram with gold ornaments",
+        "mapLink": "https://maps.google.com/?q=Kanak+Bhawan+Ayodhya"
+      },
+      {
+        "name": "Saryu River Ghat",
+        "type": "heritage",
+        "distance": 2,
+        "description": "Sacred bathing ghats on river Saryu",
+        "mapLink": "https://maps.google.com/?q=Saryu+Ghat+Ayodhya"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "extreme",
+      "estimatedWait": "5 hours",
+      "currentFootfall": 100000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Ram Janmabhoomi",
+      "Nagara Architecture",
+      "India's Newest Grand Temple",
+      "Free Entry"
+    ],
+    "festivals": [
+      "Ram Navami (Mar-Apr)",
+      "Diwali (Oct-Nov)",
+      "Pran Pratishtha Anniversary (Jan)"
+    ]
+  },
+  {
+    "id": "badrinath",
+    "name": "Badrinath Temple",
+    "deity": "Lord Vishnu",
+    "location": "Badrinath, Uttarakhand",
+    "state": "Uttarakhand",
+    "category": "Char Dham",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg/1280px-Badrinath_Temple_%2C_Uttarakhand.jpg",
+    "officialWebsite": "https://badrinath-kedarnath.gov.in",
+    "bookingUrl": "https://registrationandtouristcare.uk.gov.in/",
+    "description": "At 10,279 ft between Nar and Narayan ranges. Char Dham and Divya Desam. Stunning Himalayan backdrop.",
+    "timings": {
+      "morning": {
+        "open": "06:30",
+        "close": "13:00"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "special": "Open Apr-Nov. Maha Abhishek at 04:30 AM"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General (Registration Mandatory)",
+        "price": 0,
+        "waitTime": "1-3 hours",
+        "description": "Free. Char Dham registration needed.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Special Pooja",
+        "price": 1100,
+        "waitTime": "20-40 min",
+        "description": "Via badrinath-kedarnath.gov.in.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "VIP Express",
+        "price": 2500,
+        "waitTime": "10-15 min",
+        "description": "Skip-line + personal pandit.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Register at registrationandtouristcare.uk.gov.in",
+      "Select Badrinath",
+      "For poojas: badrinath-kedarnath.gov.in",
+      "Pay online, download certificate"
+    ],
+    "importantNotes": [
+      "CLOSED Nov-April",
+      "Char Dham registration mandatory",
+      "Tapt Kund hot spring must-visit",
+      "Road can be blocked by landslides"
+    ],
+    "dharamshalas": [
+      {
+        "name": "GMVN Badrinath",
+        "distance": "0.5 km",
+        "priceRange": "₹500-2000/night",
+        "phone": "+91-1381-222212",
+        "bookingLink": "https://gmvn.in"
+      },
+      {
+        "name": "Badrinath Trust Rooms",
+        "distance": "0.3 km",
+        "priceRange": "₹300-1000/night",
+        "phone": "+91-1381-222213",
+        "bookingLink": "https://badrinath-kedarnath.gov.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Tapt Kund",
+        "type": "nature",
+        "distance": 0,
+        "description": "Natural hot spring near temple",
+        "mapLink": "https://maps.google.com/?q=Tapt+Kund+Badrinath"
+      },
+      {
+        "name": "Mana Village",
+        "type": "heritage",
+        "distance": 3,
+        "description": "Last Indian village before Tibet border",
+        "mapLink": "https://maps.google.com/?q=Mana+Village"
+      },
+      {
+        "name": "Vasudhara Falls",
+        "type": "nature",
+        "distance": 9,
+        "description": "Mystical waterfall — 400 ft drop",
+        "mapLink": "https://maps.google.com/?q=Vasudhara+Falls"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "low",
+      "estimatedWait": "40 min",
+      "currentFootfall": 5000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Char Dham",
+      "Tapt Kund",
+      "Himalayan Setting",
+      "Divya Desam"
+    ],
+    "festivals": [
+      "Opening (Apr-May)",
+      "Badri Kedar Festival (Jun)"
+    ]
+  },
+  {
+    "id": "jagannath-puri",
+    "name": "Jagannath Temple Puri",
+    "deity": "Lord Jagannath",
+    "location": "Puri, Odisha",
+    "state": "Odisha",
+    "category": "Char Dham",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Shri_Jagannath_temple.jpg/1280px-Shri_Jagannath_temple.jpg",
+    "officialWebsite": "https://shreejagannathmandir.org",
+    "bookingUrl": "https://shreejagannathmandir.org",
+    "description": "Char Dham site. 12th-century temple. World's largest kitchen — feeds 100,000 daily. Famous Rath Yatra.",
+    "timings": {
+      "morning": {
+        "open": "05:00",
+        "close": "13:00"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "22:00"
+      },
+      "special": "Mangala Alati 05:00 AM"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Free. No ticket needed.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Krupa Darshan",
+        "price": 400,
+        "waitTime": "30-60 min",
+        "description": "Fast-track via SJTA.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit shreejagannathmandir.org",
+      "Click Online Darshan Booking",
+      "Register and select type",
+      "Pay and carry e-ticket + ID"
+    ],
+    "importantNotes": [
+      "Only Hindus allowed inside",
+      "Non-Hindus: View from Raghunandan Library rooftop",
+      "Mahaprasad at Ananda Bazar",
+      "Char Dham site"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Jagannath Temple Niwas",
+        "distance": "0.3 km",
+        "priceRange": "₹200-1000/night",
+        "phone": "+91-6752-222002",
+        "bookingLink": "https://shreejagannathmandir.org"
+      },
+      {
+        "name": "OTDC Panthanivas",
+        "distance": "1 km",
+        "priceRange": "₹800-3000/night",
+        "phone": "+91-6752-222562",
+        "bookingLink": "https://panthanivas.com"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Puri Beach",
+        "type": "nature",
+        "distance": 2,
+        "description": "Golden beach — famous sunset point",
+        "mapLink": "https://maps.google.com/?q=Puri+Beach"
+      },
+      {
+        "name": "Konark Sun Temple (UNESCO)",
+        "type": "heritage",
+        "distance": 35,
+        "description": "13th-century chariot-shaped temple",
+        "mapLink": "https://maps.google.com/?q=Konark+Sun+Temple"
+      },
+      {
+        "name": "Chilika Lake",
+        "type": "nature",
+        "distance": 40,
+        "description": "Largest coastal lagoon in Asia",
+        "mapLink": "https://maps.google.com/?q=Chilika+Lake"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "2 hours",
+      "currentFootfall": 25000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Char Dham",
+      "Rath Yatra",
+      "Largest Kitchen",
+      "Non-Shadow Flag"
+    ],
+    "festivals": [
+      "Rath Yatra (Jun-Jul)",
+      "Snana Yatra (May-Jun)"
+    ]
+  },
+  {
+    "id": "meenakshi-amman",
+    "name": "Meenakshi Amman Temple",
+    "deity": "Goddess Meenakshi",
+    "location": "Madurai, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg/1280px-An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg",
+    "officialWebsite": "https://maduraimeenakshi.org",
+    "bookingUrl": "https://www.maduraimeenakshi.org/onlinebooking",
+    "description": "2,500-year-old Dravidian masterpiece. 14 gopurams with thousands of colorful sculptures. Hall of 1000 Pillars.",
+    "timings": {
+      "morning": {
+        "open": "05:00",
+        "close": "12:30"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "21:30"
+      },
+      "special": "Iravupooja at 09:30 PM"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-2 hours",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Special Pooja",
+        "price": 200,
+        "waitTime": "20-40 min",
+        "description": "Timed entry via website.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "VIP Archana",
+        "price": 500,
+        "waitTime": "10-15 min",
+        "description": "VIP + personal archana + prasadam.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit maduraimeenakshi.org",
+      "Navigate to Online Booking",
+      "Register and select pooja type",
+      "Pay online, carry e-receipt + ID"
+    ],
+    "importantNotes": [
+      "14 acres — plan 2-3 hours",
+      "Hall of 1000 Pillars is museum (₹5)",
+      "Photography allowed in outer corridors only"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Temple Trust Choultry",
+        "distance": "0.3 km",
+        "priceRange": "₹200-800/night",
+        "phone": "+91-452-2346720",
+        "bookingLink": "https://maduraimeenakshi.org"
+      },
+      {
+        "name": "TTDC Hotel Tamil Nadu",
+        "distance": "1 km",
+        "priceRange": "₹800-2500/night",
+        "phone": "+91-452-2335780",
+        "bookingLink": "https://ttdc.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Thirumalai Nayak Palace",
+        "type": "heritage",
+        "distance": 2,
+        "description": "17th-century Indo-Saracenic palace",
+        "mapLink": "https://maps.google.com/?q=Thirumalai+Nayak+Palace"
+      },
+      {
+        "name": "Gandhi Memorial Museum",
+        "type": "heritage",
+        "distance": 3,
+        "description": "Exhibits on India's independence movement",
+        "mapLink": "https://maps.google.com/?q=Gandhi+Museum+Madurai"
+      },
+      {
+        "name": "Alagar Koil",
+        "type": "temple",
+        "distance": 21,
+        "description": "Hill temple of Lord Vishnu in scenic setting",
+        "mapLink": "https://maps.google.com/?q=Alagar+Koil+Madurai"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "1.5 hours",
+      "currentFootfall": 15000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "14 Gopurams",
+      "1000 Pillars Hall",
+      "Golden Lotus Tank",
+      "Dravidian Art"
+    ],
+    "festivals": [
+      "Chithirai Thiruvizha (Apr-May)",
+      "Navaratri (Sep-Oct)"
+    ]
+  },
+  {
+    "id": "dwarkadhish",
+    "name": "Dwarkadhish Temple",
+    "deity": "Lord Krishna",
+    "location": "Dwarka, Gujarat",
+    "state": "Gujarat",
+    "category": "Char Dham",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dwarakadheesh_Temple%2C_2014.jpg",
+    "officialWebsite": "https://dwarkadhish.org",
+    "bookingUrl": "https://dwarkadhish.org",
+    "description": "Char Dham site — Krishna's legendary kingdom. 5-storey temple with 72 pillars. Submerged city of Dwarka nearby.",
+    "timings": {
+      "morning": {
+        "open": "06:30",
+        "close": "12:30"
+      },
+      "evening": {
+        "open": "17:00",
+        "close": "21:30"
+      },
+      "special": "Aarti at sunset is spectacular"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "30-60 min",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Special Aarti",
+        "price": 200,
+        "waitTime": "15 min",
+        "description": "Reserved spot for aarti.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit dwarkadhish.org",
+      "Or visit directly — moderate crowds",
+      "For special pooja, contact temple office"
+    ],
+    "importantNotes": [
+      "Char Dham site",
+      "Combine with Nageshwar Jyotirlinga (18 km)",
+      "Bait Dwarka island temple — ferry ride",
+      "Sunset aarti is mesmerizing"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Dwarkadhish Trust Dharamshala",
+        "distance": "0.3 km",
+        "priceRange": "₹200-800/night",
+        "phone": "+91-2892-234007",
+        "bookingLink": "https://dwarkadhish.org"
+      },
+      {
+        "name": "Gujarat Tourism Guest House",
+        "distance": "1 km",
+        "priceRange": "₹500-2000/night",
+        "phone": "+91-2892-234010",
+        "bookingLink": "https://gujarattourism.com"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Nageshwar Jyotirlinga",
+        "type": "temple",
+        "distance": 18,
+        "description": "One of 12 Jyotirlingas — 80ft Shiva statue",
+        "mapLink": "https://maps.google.com/?q=Nageshwar+Jyotirlinga"
+      },
+      {
+        "name": "Bait Dwarka",
+        "type": "temple",
+        "distance": 30,
+        "description": "Island temple — ferry ride from Okha",
+        "mapLink": "https://maps.google.com/?q=Bait+Dwarka"
+      },
+      {
+        "name": "Rukmini Devi Temple",
+        "type": "temple",
+        "distance": 2,
+        "description": "Temple of Krishna's queen",
+        "mapLink": "https://maps.google.com/?q=Rukmini+Temple+Dwarka"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "low",
+      "estimatedWait": "30 min",
+      "currentFootfall": 8000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Char Dham",
+      "Krishna's Kingdom",
+      "72 Pillars",
+      "Submerged City"
+    ],
+    "festivals": [
+      "Janmashtami (Aug-Sep)",
+      "Holi (Mar)"
+    ]
+  },
+  {
+    "id": "padmanabhaswamy",
+    "name": "Padmanabhaswamy Temple",
+    "deity": "Lord Vishnu",
+    "location": "Thiruvananthapuram, Kerala",
+    "state": "Kerala",
+    "category": "Divya Desam",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sree_Padmanabhaswamy_temple_01.jpg/1280px-Sree_Padmanabhaswamy_temple_01.jpg",
+    "officialWebsite": "https://sreepadmanabhaswamytemple.org",
+    "bookingUrl": "https://sreepadmanabhaswamytemple.org",
+    "description": "108 Divya Desams. $20 billion+ treasure in vaults. Strict Dravidian traditions. Royal Travancore patronage.",
+    "timings": {
+      "morning": {
+        "open": "03:30",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "special": "STRICT dress code enforced"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-2 hours",
+        "description": "Free. Strict dress code.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Archana",
+        "price": 100,
+        "waitTime": "20-30 min",
+        "description": "Online booked archana.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "Lakshmi Pooja",
+        "price": 500,
+        "waitTime": "10-15 min",
+        "description": "Premium pooja + all 3 sections.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit sreepadmanabhaswamytemple.org",
+      "Navigate to Online Booking",
+      "Select pooja type and date",
+      "Pay online and carry receipt + ID",
+      "FOLLOW dress code strictly"
+    ],
+    "importantNotes": [
+      "Men: MUST wear dhoti",
+      "Women: MUST wear saree/churidar",
+      "NO western clothing, jeans, shorts",
+      "Dhotis for rent ₹30-50 near temple",
+      "Non-Hindus NOT allowed",
+      "Photography prohibited"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Temple Trust Rooms",
+        "distance": "0.5 km",
+        "priceRange": "₹200-800/night",
+        "phone": "+91-471-2450233",
+        "bookingLink": "https://sreepadmanabhaswamytemple.org"
+      },
+      {
+        "name": "KTDC Mascot Hotel",
+        "distance": "2 km",
+        "priceRange": "₹1500-4000/night",
+        "phone": "+91-471-2318990",
+        "bookingLink": "https://ktdc.com"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Kovalam Beach",
+        "type": "nature",
+        "distance": 16,
+        "description": "Famous crescent-shaped beach",
+        "mapLink": "https://maps.google.com/?q=Kovalam+Beach"
+      },
+      {
+        "name": "Napier Museum",
+        "type": "heritage",
+        "distance": 3,
+        "description": "Gothic style museum with art collection",
+        "mapLink": "https://maps.google.com/?q=Napier+Museum+Thiruvananthapuram"
+      },
+      {
+        "name": "Ponmudi Hills",
+        "type": "nature",
+        "distance": 55,
+        "description": "Hill station with tea gardens",
+        "mapLink": "https://maps.google.com/?q=Ponmudi+Hills"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "low",
+      "estimatedWait": "45 min",
+      "currentFootfall": 5000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "$20B+ Treasure",
+      "108 Divya Desam",
+      "Strict Dress Code",
+      "Royal Patronage"
+    ],
+    "festivals": [
+      "Alpashy (Oct-Nov)",
+      "Laksha Deepam (Mar-Apr)"
+    ]
+  },
+  {
+    "id": "khatu-shyam",
+    "name": "Khatu Shyam Ji Temple",
+    "deity": "Lord Krishna (Barbarik)",
+    "location": "Sikar, Rajasthan",
+    "state": "Rajasthan",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Khatu_Shyam_Ji_-_panoramio.jpg/1280px-Khatu_Shyam_Ji_-_panoramio.jpg",
+    "officialWebsite": "https://shrishyammandir.com",
+    "bookingUrl": "https://shrishyammandir.com",
+    "description": "Temple of Barbarik (grandson of Bhima), known as Khatu Shyam. One of Rajasthan's most visited temples.",
+    "timings": {
+      "morning": {
+        "open": "05:30",
+        "close": "13:00"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "special": "Phalguna Mela draws lakhs"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-3 hours",
+        "description": "Free entry.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit shrishyammandir.com for info",
+      "Direct visit — no online booking required",
+      "Special poojas can be arranged at temple"
+    ],
+    "importantNotes": [
+      "Extremely crowded during Phalguna Mela (Feb-Mar)",
+      "Nearest city: Jaipur (80 km)"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Mohani Palace Dharamshala",
+        "distance": "0.5 km",
+        "priceRange": "₹300-1000/night",
+        "phone": "+91-1573-220100",
+        "bookingLink": "https://shrishyammandir.com"
+      },
+      {
+        "name": "Jiwaji Palace",
+        "distance": "0.8 km",
+        "priceRange": "₹400-1200/night",
+        "phone": "+91-1573-220200",
+        "bookingLink": "https://shrishyammandir.com"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Salasar Balaji",
+        "type": "temple",
+        "distance": 60,
+        "description": "Famous Hanuman temple",
+        "mapLink": "https://maps.google.com/?q=Salasar+Balaji"
+      },
+      {
+        "name": "Jeen Mata Temple",
+        "type": "temple",
+        "distance": 45,
+        "description": "Ancient Shakti Peeth",
+        "mapLink": "https://maps.google.com/?q=Jeen+Mata+Temple+Sikar"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "1.5 hours",
+      "currentFootfall": 15000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Barbarik/Khatu Shyam",
+      "Rajasthani Architecture",
+      "Phalguna Mela",
+      "Bhima's Grandson"
+    ],
+    "festivals": [
+      "Phalguna Mela (Feb-Mar)",
+      "Ekadashi (Bimonthly)"
+    ]
+  },
+  {
+    "id": "mahabodhi",
+    "name": "Mahabodhi Temple",
+    "deity": "Lord Buddha",
+    "location": "Bodh Gaya, Bihar",
+    "state": "Bihar",
+    "category": "Buddhist Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mahabodhitemple.jpg/1280px-Mahabodhitemple.jpg",
+    "officialWebsite": "https://bodhgayatemple.com",
+    "bookingUrl": "https://bodhgayatemple.com",
+    "description": "UNESCO World Heritage. Where Buddha attained enlightenment under the Bodhi Tree. Most sacred Buddhist site in the world.",
+    "timings": {
+      "morning": {
+        "open": "05:00",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "14:00",
+        "close": "21:00"
+      },
+      "special": "Meditation sessions available"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Entry",
+        "price": 0,
+        "waitTime": "30 min",
+        "description": "Free entry for all.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "No booking needed — free entry",
+      "Photography requires separate ticket",
+      "Visit bodhgayatemple.com for info"
+    ],
+    "importantNotes": [
+      "UNESCO World Heritage Site",
+      "The Bodhi Tree is a descendant of the original",
+      "Open to ALL — no religious restriction",
+      "Photography ticket: ₹100"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Burmese Vihar",
+        "distance": "0.5 km",
+        "priceRange": "₹200-500/night",
+        "phone": "+91-631-2200735",
+        "bookingLink": ""
+      },
+      {
+        "name": "Thai Temple Stay",
+        "distance": "1 km",
+        "priceRange": "Free/Donation",
+        "phone": "+91-631-2200736",
+        "bookingLink": ""
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Bodhi Tree",
+        "type": "heritage",
+        "distance": 0,
+        "description": "Descendant of tree where Buddha attained enlightenment",
+        "mapLink": "https://maps.google.com/?q=Bodhi+Tree+Bodh+Gaya"
+      },
+      {
+        "name": "Great Buddha Statue",
+        "type": "heritage",
+        "distance": 1,
+        "description": "80-ft tall Buddha statue",
+        "mapLink": "https://maps.google.com/?q=Great+Buddha+Statue+Bodh+Gaya"
+      },
+      {
+        "name": "Sujata Stupa",
+        "type": "heritage",
+        "distance": 3,
+        "description": "Where Sujata offered kheer to Buddha",
+        "mapLink": "https://maps.google.com/?q=Sujata+Stupa"
+      },
+      {
+        "name": "Rajgir (Nalanda)",
+        "type": "heritage",
+        "distance": 80,
+        "description": "Ancient university ruins — UNESCO",
+        "mapLink": "https://maps.google.com/?q=Nalanda+University+Ruins"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "low",
+      "estimatedWait": "15 min",
+      "currentFootfall": 5000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "UNESCO Heritage",
+      "Bodhi Tree",
+      "Buddha's Enlightenment",
+      "Open to All"
+    ],
+    "festivals": [
+      "Buddha Purnima (May)",
+      "Bodhi Day (Dec)"
+    ]
+  },
+  {
+    "id": "amarnath",
+    "name": "Amarnath Cave Temple",
+    "deity": "Lord Shiva",
+    "location": "Pahalgam/Baltal, J&K",
+    "state": "Jammu & Kashmir",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cave_Temple_of_Lord_Amarnath.jpg/1280px-Cave_Temple_of_Lord_Amarnath.jpg",
+    "officialWebsite": "https://shriamarnathjishrine.com",
+    "bookingUrl": "https://shriamarnathjishrine.com",
+    "description": "Sacred ice Shivalinga forms naturally in a cave at 12,756 ft. Annual yatra (Jun-Aug) draws 3 lakh+ pilgrims.",
+    "timings": {
+      "morning": {
+        "open": "06:00",
+        "close": "18:00"
+      },
+      "evening": {
+        "open": "N/A",
+        "close": "N/A"
+      },
+      "special": "Open only Jun-Aug. Ice lingam forms naturally"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Yatra Registration (Mandatory)",
+        "price": 0,
+        "waitTime": "4-8 hours",
+        "description": "Free. Registration + medical certificate mandatory.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit shriamarnathjishrine.com",
+      "Register for Yatra permit",
+      "Get medical fitness certificate from registered hospital",
+      "Download Yatra permit",
+      "Report at Pahalgam or Baltal base camp"
+    ],
+    "importantNotes": [
+      "OPEN ONLY Jun-Aug (approx 45 days)",
+      "Medical fitness certificate MANDATORY",
+      "Registration OPENS months in advance",
+      "Helicopter option available",
+      "Trek: 46 km from Pahalgam / 14 km from Baltal",
+      "Altitude: 12,756 ft — acclimatize first"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Shrine Board Base Camps",
+        "distance": "At base",
+        "priceRange": "₹200-500/night",
+        "phone": "+91-194-2310038",
+        "bookingLink": "https://shriamarnathjishrine.com"
+      },
+      {
+        "name": "Tent colonies en route",
+        "distance": "Along trek",
+        "priceRange": "₹300-800/night",
+        "phone": "",
+        "bookingLink": ""
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Pahalgam",
+        "type": "nature",
+        "distance": 0,
+        "description": "Valley of Shepherds — trek starting point",
+        "mapLink": "https://maps.google.com/?q=Pahalgam"
+      },
+      {
+        "name": "Betaab Valley",
+        "type": "nature",
+        "distance": 15,
+        "description": "Stunning valley named after Bollywood film",
+        "mapLink": "https://maps.google.com/?q=Betaab+Valley+Pahalgam"
+      },
+      {
+        "name": "Chandanwari",
+        "type": "nature",
+        "distance": 16,
+        "description": "Starting point of Amarnath trek",
+        "mapLink": "https://maps.google.com/?q=Chandanwari+Pahalgam"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": false,
+      "rushLevel": "low",
+      "estimatedWait": "Closed",
+      "currentFootfall": 0,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Ice Shivalinga",
+      "12,756 ft Altitude",
+      "46 km Trek",
+      "Annual Yatra"
+    ],
+    "festivals": [
+      "Amarnath Yatra (Jun-Aug)",
+      "Maha Shivaratri"
+    ]
+  },
+  {
+    "id": "srirangam",
+    "name": "Srirangam Ranganathaswamy",
+    "deity": "Lord Vishnu (Ranganatha)",
+    "location": "Srirangam, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "category": "Divya Desam",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/1280px-Ranganathaswamy_temple_tiruchirappalli.jpg",
+    "officialWebsite": "https://srirangam.org",
+    "bookingUrl": "https://srirangam.org",
+    "description": "Largest functioning Hindu temple in the world. 156 acres with 21 gopurams and 7 enclosures. First among 108 Divya Desams.",
+    "timings": {
+      "morning": {
+        "open": "06:00",
+        "close": "13:00"
+      },
+      "evening": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "special": "21 Gopurams — largest is 236 ft"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-2 hours",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Archana",
+        "price": 100,
+        "waitTime": "20 min",
+        "description": "Online archana booking.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit srirangam.org",
+      "Select pooja type",
+      "Register and pay online",
+      "Carry receipt + ID"
+    ],
+    "importantNotes": [
+      "Largest functioning Hindu temple",
+      "7 concentric enclosures",
+      "Non-Hindus allowed in outer enclosures only"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Temple Trust Choultry",
+        "distance": "0.3 km",
+        "priceRange": "₹200-600/night",
+        "phone": "+91-431-2432246",
+        "bookingLink": "https://srirangam.org"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Rock Fort Temple",
+        "type": "temple",
+        "distance": 5,
+        "description": "Temple atop massive rock in Trichy",
+        "mapLink": "https://maps.google.com/?q=Rock+Fort+Temple+Trichy"
+      },
+      {
+        "name": "Jambukeshwar Temple",
+        "type": "temple",
+        "distance": 2,
+        "description": "One of Pancha Bhoota Sthalams (Water)",
+        "mapLink": "https://maps.google.com/?q=Jambukeshwar+Temple"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "1.5 hours",
+      "currentFootfall": 12000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Largest Hindu Temple",
+      "156 Acres",
+      "21 Gopurams",
+      "First Divya Desam"
+    ],
+    "festivals": [
+      "Vaikunta Ekadashi (Dec-Jan)",
+      "Panguni Uthiram (Mar-Apr)"
+    ]
+  },
+  {
+    "id": "arunachaleswarar",
+    "name": "Arunachaleswarar Temple",
+    "deity": "Lord Shiva",
+    "location": "Tiruvannamalai, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "category": "Pancha Bhoota",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Arunachalam_temple_from_a_nearby_hill.jpg/1280px-Arunachalam_temple_from_a_nearby_hill.jpg",
+    "officialWebsite": "https://annamalaiyar.hrce.tn.gov.in",
+    "bookingUrl": "https://annamalaiyar.hrce.tn.gov.in",
+    "description": "Fire element among 5 Pancha Bhoota Sthalams. Karthigai Deepam festival lights a massive fire visible for miles. Ramana Maharshi's ashram nearby.",
+    "timings": {
+      "morning": {
+        "open": "05:30",
+        "close": "12:30"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "special": "Girivalam (circumambulation) on full moon nights"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-2 hours",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Abhishekam",
+        "price": 200,
+        "waitTime": "20 min",
+        "description": "Via HR&CE portal.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit annamalaiyar.hrce.tn.gov.in",
+      "Register and select pooja",
+      "Pay online",
+      "Carry receipt + ID"
+    ],
+    "importantNotes": [
+      "Girivalam (14 km walk) on full moon is a must",
+      "Karthigai Deepam (Nov-Dec) — massive flame on hill",
+      "Ramana Maharshi Ashram nearby"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Temple Choultry",
+        "distance": "0.5 km",
+        "priceRange": "₹150-500/night",
+        "phone": "+91-4175-252438",
+        "bookingLink": ""
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Ramana Maharshi Ashram",
+        "type": "heritage",
+        "distance": 2,
+        "description": "Ashram of the great sage",
+        "mapLink": "https://maps.google.com/?q=Ramana+Maharshi+Ashram"
+      },
+      {
+        "name": "Skandashramam",
+        "type": "temple",
+        "distance": 3,
+        "description": "Cave where Ramana meditated",
+        "mapLink": "https://maps.google.com/?q=Skandashramam+Tiruvannamalai"
+      },
+      {
+        "name": "Sathanur Dam",
+        "type": "nature",
+        "distance": 35,
+        "description": "Scenic dam and park",
+        "mapLink": "https://maps.google.com/?q=Sathanur+Dam"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "1 hour",
+      "currentFootfall": 10000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Pancha Bhoota (Fire)",
+      "Karthigai Deepam",
+      "Girivalam",
+      "Ramana Maharshi"
+    ],
+    "festivals": [
+      "Karthigai Deepam (Nov-Dec)",
+      "Maha Shivaratri (Feb-Mar)"
+    ]
+  },
+  {
+    "id": "palani-murugan",
+    "name": "Palani Murugan Temple",
+    "deity": "Lord Murugan",
+    "location": "Palani, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Palanihills.JPG/1280px-Palanihills.JPG",
+    "officialWebsite": "https://palanimurugan.tnhrce.in",
+    "bookingUrl": "https://palanimurugan.tnhrce.in",
+    "description": "One of the six abodes of Lord Murugan. Hilltop temple with winch and ropeway. Panchamirtham prasadam is world-famous.",
+    "timings": {
+      "morning": {
+        "open": "06:00",
+        "close": "12:30"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "special": "Thaipusam festival is grand"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-3 hours",
+        "description": "Free. Trek or ropeway to hilltop.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Abhishekam",
+        "price": 200,
+        "waitTime": "20 min",
+        "description": "Online booking via HR&CE.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit palanimurugan.tnhrce.in",
+      "Register and select pooja",
+      "Pay online, download receipt",
+      "Climb hill or take winch/ropeway"
+    ],
+    "importantNotes": [
+      "Hilltop temple — ropeway ₹25, winch ₹50",
+      "Panchamirtham (GI tagged) — buy at temple",
+      "Thaipusam draws millions"
+    ],
+    "dharamshalas": [
+      {
+        "name": "HR&CE Choultry",
+        "distance": "Base of hill",
+        "priceRange": "₹200-800/night",
+        "phone": "+91-4545-241556",
+        "bookingLink": "https://palanimurugan.tnhrce.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Kodaikanal",
+        "type": "nature",
+        "distance": 65,
+        "description": "Princess of Hill Stations",
+        "mapLink": "https://maps.google.com/?q=Kodaikanal"
+      },
+      {
+        "name": "Palani Hills",
+        "type": "nature",
+        "distance": 0,
+        "description": "Scenic hill range — part of Western Ghats",
+        "mapLink": "https://maps.google.com/?q=Palani+Hills"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "high",
+      "estimatedWait": "2 hours",
+      "currentFootfall": 20000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Six Abodes of Murugan",
+      "Hilltop Temple",
+      "Panchamirtham",
+      "Ropeway"
+    ],
+    "festivals": [
+      "Thaipusam (Jan-Feb)",
+      "Skanda Sashti (Nov)"
+    ]
+  },
+  {
+    "id": "salasar-balaji",
+    "name": "Salasar Balaji Temple",
+    "deity": "Lord Hanuman",
+    "location": "Salasar, Rajasthan",
+    "state": "Rajasthan",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Salasar_balaji_02.jpg",
+    "officialWebsite": "https://shreesalasarbalajimandir.com",
+    "bookingUrl": "https://shreesalasarbalajimandir.com",
+    "description": "Famous self-manifested (Swayambhu) idol of Lord Hanuman. One of the most visited Hanuman temples in India.",
+    "timings": {
+      "morning": {
+        "open": "05:00",
+        "close": "13:00"
+      },
+      "evening": {
+        "open": "15:00",
+        "close": "22:00"
+      },
+      "special": "Chaitra and Ashwin Purnima melas"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-3 hours",
+        "description": "Free entry.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit shreesalasarbalajimandir.com for info",
+      "No online booking required",
+      "Direct visit"
+    ],
+    "importantNotes": [
+      "Very crowded during Hanuman Jayanti",
+      "125+ dharamshala units available",
+      "Visit with Khatu Shyam (60 km)"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Samiti Dharamshalas",
+        "distance": "0.3-1 km",
+        "priceRange": "₹200-800/night",
+        "phone": "+91-1572-240100",
+        "bookingLink": "https://shreesalasarbalajimandir.com"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Khatu Shyam Temple",
+        "type": "temple",
+        "distance": 60,
+        "description": "Famous Barbarik/Shyam temple",
+        "mapLink": "https://maps.google.com/?q=Khatu+Shyam+Temple"
+      },
+      {
+        "name": "Jeen Mata Temple",
+        "type": "temple",
+        "distance": 55,
+        "description": "Ancient Shakti Peeth",
+        "mapLink": "https://maps.google.com/?q=Jeen+Mata+Temple"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "1.5 hours",
+      "currentFootfall": 12000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Swayambhu Idol",
+      "Rajasthani Architecture",
+      "Festival Melas",
+      "Hanuman Devotion"
+    ],
+    "festivals": [
+      "Hanuman Jayanti (Apr)",
+      "Chaitra Purnima",
+      "Ashwin Purnima"
+    ]
+  },
+  {
+    "id": "lingaraj",
+    "name": "Lingaraj Temple",
+    "deity": "Lord Shiva",
+    "location": "Bhubaneswar, Odisha",
+    "state": "Odisha",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lingaraj_Temple_%2C_Bhubaneswar.jpg/1280px-Lingaraj_Temple_%2C_Bhubaneswar.jpg",
+    "officialWebsite": "https://lingarajtemple.org",
+    "bookingUrl": "https://lingarajtemple.org",
+    "description": "11th-century Kalinga architecture masterpiece. 180-ft tall deul (tower). Largest temple in Bhubaneswar — temple city of India.",
+    "timings": {
+      "morning": {
+        "open": "06:00",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "15:30",
+        "close": "21:00"
+      },
+      "special": "Non-Hindus view from a raised platform outside"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "1-2 hours",
+        "description": "Free. Hindus only.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit lingarajtemple.org for info",
+      "Direct visit — no online booking",
+      "Non-Hindus: View from platform"
+    ],
+    "importantNotes": [
+      "Non-Hindus NOT allowed inside",
+      "View from raised platform outside",
+      "Largest Kalinga-style temple",
+      "Temple City of India"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Temple Trust Dharamshala",
+        "distance": "0.5 km",
+        "priceRange": "₹200-600/night",
+        "phone": "+91-674-2431314",
+        "bookingLink": ""
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Udayagiri & Khandagiri Caves",
+        "type": "heritage",
+        "distance": 6,
+        "description": "Jain rock-cut caves — 2nd century BCE",
+        "mapLink": "https://maps.google.com/?q=Udayagiri+Khandagiri+Caves"
+      },
+      {
+        "name": "Dhauli Shanti Stupa",
+        "type": "heritage",
+        "distance": 8,
+        "description": "Where Ashoka renounced war",
+        "mapLink": "https://maps.google.com/?q=Dhauli+Shanti+Stupa"
+      },
+      {
+        "name": "Nandankanan Zoo",
+        "type": "nature",
+        "distance": 15,
+        "description": "Famous for white tigers",
+        "mapLink": "https://maps.google.com/?q=Nandankanan+Zoo"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "1 hour",
+      "currentFootfall": 8000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "180-ft Tower",
+      "Kalinga Architecture",
+      "Temple City",
+      "11th Century"
+    ],
+    "festivals": [
+      "Maha Shivaratri (Feb-Mar)",
+      "Rath Yatra (Apr)"
+    ]
+  },
+  {
+    "id": "banke-bihari",
+    "name": "Banke Bihari Temple",
+    "deity": "Lord Krishna",
+    "location": "Vrindavan, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Banke_Bihari_Vrindavan.jpg/1280px-Banke_Bihari_Vrindavan.jpg",
+    "officialWebsite": "https://bankebihariji.com",
+    "bookingUrl": "https://bankebihariji.com",
+    "description": "One of the most revered Krishna temples in Vrindavan. Unique tradition — curtain conceals deity, revealed periodically.",
+    "timings": {
+      "morning": {
+        "open": "07:45",
+        "close": "12:00"
+      },
+      "evening": {
+        "open": "17:30",
+        "close": "21:00"
+      },
+      "special": "Curtain opened/closed every few minutes"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Free entry. Very crowded.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit bankebihariji.com for info",
+      "No online booking — direct visit",
+      "Arrive early to avoid extreme crowds"
+    ],
+    "importantNotes": [
+      "Extremely crowded during Holi and Janmashtami",
+      "Photography NOT allowed inside",
+      "Unique curtain tradition",
+      "Part of Vrindavan temple circuit"
+    ],
+    "dharamshalas": [
+      {
+        "name": "ISKCON Vrindavan",
+        "distance": "2 km",
+        "priceRange": "₹500-2000/night",
+        "phone": "+91-565-2540021",
+        "bookingLink": ""
+      },
+      {
+        "name": "MVT Guest House",
+        "distance": "1 km",
+        "priceRange": "₹300-1200/night",
+        "phone": "+91-565-2540022",
+        "bookingLink": ""
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "ISKCON Vrindavan",
+        "type": "temple",
+        "distance": 2,
+        "description": "Beautiful Krishna-Balram temple",
+        "mapLink": "https://maps.google.com/?q=ISKCON+Vrindavan"
+      },
+      {
+        "name": "Prem Mandir",
+        "type": "temple",
+        "distance": 3,
+        "description": "Stunning white marble Krishna temple — lit at night",
+        "mapLink": "https://maps.google.com/?q=Prem+Mandir+Vrindavan"
+      },
+      {
+        "name": "Krishna Janmabhoomi",
+        "type": "temple",
+        "distance": 10,
+        "description": "Birthplace of Lord Krishna in Mathura",
+        "mapLink": "https://maps.google.com/?q=Krishna+Janmabhoomi+Mathura"
+      },
+      {
+        "name": "Govardhan Hill",
+        "type": "heritage",
+        "distance": 25,
+        "description": "Sacred hill lifted by Krishna",
+        "mapLink": "https://maps.google.com/?q=Govardhan+Hill"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "high",
+      "estimatedWait": "3 hours",
+      "currentFootfall": 20000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Curtain Tradition",
+      "Vrindavan Heart",
+      "Holi Celebrations",
+      "Devotional Music"
+    ],
+    "festivals": [
+      "Holi (Mar)",
+      "Janmashtami (Aug)",
+      "Kartik Month (Oct-Nov)"
+    ]
+  },
+  {
+    "id": "konark-sun",
+    "name": "Konark Sun Temple",
+    "deity": "Surya (Sun God)",
+    "location": "Konark, Odisha",
+    "state": "Odisha",
+    "category": "UNESCO Heritage",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/1280px-Konarka_Temple.jpg",
+    "officialWebsite": "https://konark.nic.in",
+    "bookingUrl": "https://konark.nic.in",
+    "description": "UNESCO World Heritage. 13th-century chariot-shaped temple. 24 carved wheels and 7 horses. Masterpiece of Kalinga architecture.",
+    "timings": {
+      "morning": {
+        "open": "06:00",
+        "close": "20:00"
+      },
+      "evening": {
+        "open": "N/A",
+        "close": "N/A"
+      },
+      "special": "Open-air monument — no evening session"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Entry Ticket",
+        "price": 40,
+        "waitTime": "15 min",
+        "description": "ASI monument. ₹40 Indian, ₹600 foreign.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit konark.nic.in or buy ticket at gate",
+      "ASI monument — ticket counter at entrance",
+      "No advance booking needed"
+    ],
+    "importantNotes": [
+      "UNESCO World Heritage Site",
+      "Konark Dance Festival (Dec) held here",
+      "Best at sunrise — temple faces east",
+      "7 km from Chandrabhaga Beach"
+    ],
+    "dharamshalas": [
+      {
+        "name": "OTDC Panthanivas",
+        "distance": "1 km",
+        "priceRange": "₹800-2500/night",
+        "phone": "+91-6758-236820",
+        "bookingLink": "https://panthanivas.com"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Chandrabhaga Beach",
+        "type": "nature",
+        "distance": 7,
+        "description": "Sacred beach — first rays of sun on chariot temple",
+        "mapLink": "https://maps.google.com/?q=Chandrabhaga+Beach+Konark"
+      },
+      {
+        "name": "Puri Jagannath Temple",
+        "type": "temple",
+        "distance": 35,
+        "description": "Char Dham — Lord Jagannath",
+        "mapLink": "https://maps.google.com/?q=Jagannath+Temple+Puri"
+      },
+      {
+        "name": "ASI Museum Konark",
+        "type": "heritage",
+        "distance": 0,
+        "description": "Sculptures and artifacts from excavation",
+        "mapLink": "https://maps.google.com/?q=Konark+Museum"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "low",
+      "estimatedWait": "15 min",
+      "currentFootfall": 3000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "UNESCO Heritage",
+      "Chariot Shape",
+      "24 Wheels",
+      "Kalinga Masterpiece"
+    ],
+    "festivals": [
+      "Konark Dance Festival (Dec)",
+      "Chandrabhaga Mela (Feb)"
+    ]
+  },
+  {
+    "id": "akshardham",
+    "name": "Akshardham Temple",
+    "deity": "Swaminarayan",
+    "location": "New Delhi",
+    "state": "Delhi",
+    "category": "Modern Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Swaminarayan_Akshardham%2C_Delhi.jpg",
+    "officialWebsite": "https://akshardham.com",
+    "bookingUrl": "https://akshardham.com",
+    "description": "Guinness World Record for largest Hindu temple. Stunning Rajasthani-pink sandstone and Italian marble. Musical fountain show.",
+    "timings": {
+      "morning": {
+        "open": "09:30",
+        "close": "18:30"
+      },
+      "evening": {
+        "open": "N/A",
+        "close": "N/A"
+      },
+      "special": "Water show at 07:15 PM (seasonal). Closed Mondays."
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Temple Entry (Free)",
+        "price": 0,
+        "waitTime": "30-60 min",
+        "description": "Free entry to main temple.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Exhibition + Water Show",
+        "price": 270,
+        "waitTime": "With ticket",
+        "description": "Exhibitions + Musical Fountain.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit akshardham.com for timings",
+      "No advance booking — buy ticket at gate",
+      "Temple entry is FREE",
+      "Exhibition + Water show: ₹270 at counter"
+    ],
+    "importantNotes": [
+      "CLOSED on Mondays",
+      "No mobiles/cameras/bags allowed inside",
+      "Free lockers available",
+      "Last entry 30 min before closing",
+      "Near Akshardham Metro station"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Hotels near Akshardham Metro",
+        "distance": "1-3 km",
+        "priceRange": "₹1000-3000/night",
+        "phone": "",
+        "bookingLink": ""
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "ISKON Delhi",
+        "type": "temple",
+        "distance": 8,
+        "description": "Hare Krishna temple — Glory of India exhibition",
+        "mapLink": "https://maps.google.com/?q=ISKCON+Temple+Delhi"
+      },
+      {
+        "name": "Lotus Temple",
+        "type": "temple",
+        "distance": 10,
+        "description": "Bahá'í House — lotus-shaped marble marvel",
+        "mapLink": "https://maps.google.com/?q=Lotus+Temple+Delhi"
+      },
+      {
+        "name": "Humayun's Tomb",
+        "type": "heritage",
+        "distance": 8,
+        "description": "Mughal architecture — UNESCO Heritage",
+        "mapLink": "https://maps.google.com/?q=Humayuns+Tomb+Delhi"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "45 min",
+      "currentFootfall": 15000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Guinness World Record",
+      "Musical Fountain",
+      "Pink Sandstone",
+      "No Electronics"
+    ],
+    "festivals": [
+      "Diwali (Oct-Nov)",
+      "Republic Day Week (Jan)"
+    ]
+  },
+  {
+    "id": "yadagirigutta",
+    "name": "Yadagirigutta Temple",
+    "deity": "Lord Narasimha",
+    "location": "Yadagirigutta, Telangana",
+    "state": "Telangana",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Yadagirigutta_temple_main_Gopuram.jpg/1280px-Yadagirigutta_temple_main_Gopuram.jpg",
+    "officialWebsite": "https://yadagiriguttatemple.telangana.gov.in",
+    "bookingUrl": "https://yadagiriguttatemple.telangana.gov.in",
+    "description": "Newly renovated grand temple of Lord Narasimha on Yadagiri hills. Modeled after Tirumala — fast becoming South India's next mega-pilgrimage.",
+    "timings": {
+      "morning": {
+        "open": "05:00",
+        "close": "13:00"
+      },
+      "evening": {
+        "open": "14:00",
+        "close": "21:00"
+      },
+      "special": "Sudarshana Homam on Saturdays"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "Sarva Darshan",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Free queue darshan.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Special Entry",
+        "price": 200,
+        "waitTime": "30-60 min",
+        "description": "Online timed entry.",
+        "available": true
+      },
+      {
+        "id": "vip",
+        "name": "VIP Darshan",
+        "price": 500,
+        "waitTime": "15 min",
+        "description": "Priority entry.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit yadagiriguttatemple.telangana.gov.in",
+      "Register and select darshan type",
+      "Choose date and time slot",
+      "Pay online and download QR pass"
+    ],
+    "importantNotes": [
+      "Recently renovated — very modern facilities",
+      "Modeled after TTD system",
+      "50 km from Hyderabad"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Temple Trust Guest House",
+        "distance": "0.5 km",
+        "priceRange": "₹300-1500/night",
+        "phone": "+91-8685-255755",
+        "bookingLink": "https://yadagiriguttatemple.telangana.gov.in"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Bhongir Fort",
+        "type": "heritage",
+        "distance": 20,
+        "description": "Egg-shaped monolithic hill fort",
+        "mapLink": "https://maps.google.com/?q=Bhongir+Fort"
+      },
+      {
+        "name": "Hyderabad",
+        "type": "heritage",
+        "distance": 50,
+        "description": "City of Charminar and Golconda Fort",
+        "mapLink": "https://maps.google.com/?q=Hyderabad"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "high",
+      "estimatedWait": "3 hours",
+      "currentFootfall": 30000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Mega Renovation",
+      "Narasimha Worship",
+      "Modern Facilities",
+      "Near Hyderabad"
+    ],
+    "festivals": [
+      "Brahmotsavam (Feb-Mar)",
+      "Narasimha Jayanti (May)"
+    ]
+  },
+  {
+    "id": "vitthal-rukmini",
+    "name": "Vitthal Rukmini Temple",
+    "deity": "Lord Vitthal (Krishna)",
+    "location": "Pandharpur, Maharashtra",
+    "state": "Maharashtra",
+    "category": "Major Shrine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pandharpur_2013_Aashad_-_panoramio_%2810%29_%28cropped%29.jpg",
+    "officialWebsite": "https://vitthalrukminimandir.org",
+    "bookingUrl": "https://vitthalrukminimandir.org",
+    "description": "Central shrine of the Varkari tradition. Millions of devotees walk (Wari/Dindi) to Pandharpur on Ashadhi and Kartiki Ekadashi.",
+    "timings": {
+      "morning": {
+        "open": "04:00",
+        "close": "12:30"
+      },
+      "evening": {
+        "open": "16:00",
+        "close": "22:00"
+      },
+      "special": "Wari processions arrive on Ekadashi"
+    },
+    "darshanTypes": [
+      {
+        "id": "free",
+        "name": "General Darshan",
+        "price": 0,
+        "waitTime": "2-4 hours",
+        "description": "Free entry.",
+        "available": true
+      },
+      {
+        "id": "special",
+        "name": "Abhishek",
+        "price": 300,
+        "waitTime": "30 min",
+        "description": "Via temple website.",
+        "available": true
+      }
+    ],
+    "bookingProcess": [
+      "Visit vitthalrukminimandir.org",
+      "Register and select pooja",
+      "Pay online",
+      "Carry receipt + ID"
+    ],
+    "importantNotes": [
+      "Ashadhi Ekadashi (Jul) — millions walk Wari",
+      "Bhakt Niwas available",
+      "On banks of Chandrabhaga river"
+    ],
+    "dharamshalas": [
+      {
+        "name": "Vitthal Rukmini Bhakt Niwas",
+        "distance": "0.5 km",
+        "priceRange": "₹200-800/night",
+        "phone": "+91-2186-225570",
+        "bookingLink": "https://vitthalrukminimandir.org"
+      }
+    ],
+    "nearbyPlaces": [
+      {
+        "name": "Chandrabhaga River Ghat",
+        "type": "heritage",
+        "distance": 1,
+        "description": "Sacred bathing ghat",
+        "mapLink": "https://maps.google.com/?q=Chandrabhaga+Ghat+Pandharpur"
+      },
+      {
+        "name": "ISKCON Pandharpur",
+        "type": "temple",
+        "distance": 3,
+        "description": "ISKCON temple with eco village",
+        "mapLink": "https://maps.google.com/?q=ISKCON+Pandharpur"
+      }
+    ],
+    "liveStatus": {
+      "isOpen": true,
+      "rushLevel": "medium",
+      "estimatedWait": "2 hours",
+      "currentFootfall": 15000,
+      "lastUpdated": null
+    },
+    "highlights": [
+      "Varkari Tradition",
+      "Wari Procession",
+      "Chandrabhaga River",
+      "Abhangas"
+    ],
+    "festivals": [
+      "Ashadhi Ekadashi (Jul)",
+      "Kartiki Ekadashi (Nov)"
+    ]
+  }
+]
